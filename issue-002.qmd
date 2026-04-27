@@ -1,0 +1,132 @@
+---
+title: System Signals No. 2
+subtitle: >
+  Hormuz premium, majority government, and the gap between Canada's trade
+  diversification numbers and their structural reality
+date: 2026-04-14
+issue: 2
+description: >
+  A weekly systems digest on what moved beneath the headlines in the week
+  ending April 11, 2026: Alberta's oil windfall and its inflationary
+  shadow, Trans Mountain at near-capacity, Canada's diversification story
+  unravelling under the gold adjustment, Canadian ports outperforming US
+  rivals, and the governance shift that follows a majority government.
+categories:
+  - "Economic Geography"
+  - "Monitoring"
+  - "Urban Geography"
+image: assets/images/signals.webp
+toc: true
+---
+
+> **Published April 14, 2026.** _System Signals_ is a recurring Wayward House briefing for readers who want the week sorted by system rather than by noise. This issue covers the week ending Friday, April 11, 2026 — published late due to a pipeline failure of the digital variety.
+
+---
+
+## This Week's Pattern
+
+This was a week of contradictions resolving into a single picture.
+
+Alberta is producing more oil than at any point in its history and extracting premium prices from a market that has lost access to nine million barrels per day of Middle Eastern supply. Trans Mountain is running near capacity for the first time since the expansion was completed. Government revenues are high and the economic forecast is rising. By the standard headline metrics, this is as strong as the Alberta economy gets.
+
+And yet the same Strait of Hormuz disruption that is lifting Alberta's production revenues is also raising fuel costs, fertiliser inputs, logistics surcharges, and consumer prices across the province. The "Hormuz premium" is not a pure windfall for Albertans. It is a price embedded in both their export receipts and their weekly grocery bill.
+
+Meanwhile at the national level, Canada's diversification story — the headline claim that Canada is successfully pivoting away from US markets — turns out on inspection to rest almost entirely on record gold prices. Strip gold out, and total exports fell in 2025. The infrastructure investment is real. The trade reorientation, so far, is not.
+
+The week ended with a political variable changing: the Carney Liberals won three byelections and moved to a majority government. That shifts the speed at which every other policy variable can move.
+
+---
+
+## Alberta System
+
+The headline number from ATB Economics this week was an upward revision to Alberta's 2026 GDP forecast: **2.7% real growth**, up from 2.1% in December, driven by a WTI forecast revised to US$75 per barrel.[^1] Nominal GDP is projected to grow 6%, with the gap between real and nominal growth reflecting the inflationary pressure embedded in the same commodity environment that is lifting production revenues.
+
+ATB's chief economist named the mechanism explicitly: the **Hormuz premium**. The Strait of Hormuz disruption has removed roughly nine million barrels per day from global supply, redirecting Asian buyers toward Alberta heavy crude and filling Trans Mountain's expanded system faster than any pre-crisis forecast anticipated.[^2] For producers, this is a price gift. For households and agricultural operations, it is a cost. Fertiliser prices, diesel, heating fuel, and anything that moves by refrigerated truck are all more expensive. The same geography that makes Alberta an energy exporter makes it a price-taker on the energy inputs that sustain agriculture, logistics, and construction.
+
+Trans Mountain's expanded system is operating in the high-90% utilisation range as of April 2026 — the highest since the $34 billion expansion was completed in 2024. China, already the largest buyer of TMX crude at 353,674 barrels per day in March 2025, has intensified purchasing further as Hormuz alternatives dried up.[^3] The system constraint has shifted from pipe capacity to berth scheduling at Westridge Marine Terminal in Vancouver, which can accommodate roughly 15 to 20 Aframax tankers per month. The pipeline investment was designed precisely for this moment. The limiting variable is now the port end, not the pipe.
+
+---
+
+## Canada Build-Out
+
+The most analytically important document of the week was the Government of Canada's Spring 2026 Quarterly Economic and Trade Report, published by the Office of the Chief Economist at Global Affairs Canada on April 8.[^4]
+
+The headline finding was strong. Canada's non-US merchandise exports hit a record **$22.3 billion** in February 2026. The US share of total exports fell to a historic low of **64.1%** in Q4 2025. These are the numbers that appear in the diversification press releases.
+
+The caveat appeared in the fine print. Nearly **44% of non-US export gains** were accounted for by record gold prices — not by structural changes in where Canadian manufacturers, processors, or agricultural producers are selling. Strip out gold, and total exports would have **fallen 2.1%** in 2025. The countries importing more from Canada are mostly importing more of one thing: a commodity whose price is being driven by financial risk premiums, not by new Canadian market relationships.
+
+This matters because the diversification infrastructure — the Trade Diversification Corridors Fund, port expansions at Prince Rupert and Hamilton, the rail intermodal investments that CN and CPKC are making — is being built for a trade reorientation that has not yet materialised in the underlying volumes. The physical system is ahead of the commercial system. That is not necessarily a problem. Infrastructure often leads commercial use. But it is the structural gap to watch.
+
+On ports: CN and CPKC both reported that Canadian West Coast gateways at Vancouver and Prince Rupert are outperforming US counterparts during the tariff disruption.[^5] CN's Canadian intermodal volumes grew **16% year-over-year** in Q1, bucking the expected drag from US-Canada tariff friction. The Gemini alliance (Maersk and Hapag-Lloyd) has been routing more Pacific cargo through Prince Rupert specifically to avoid US West Coast exposure. Prince Rupert's near-$1 billion expansion — which would more than double export capacity — is in progress.[^6]
+
+The divergence matters for Alberta. Canadian Pacific gateway ports are currently acting as a release valve for trans-Pacific cargo that cannot move efficiently through the US West Coast under tariff uncertainty. That rerouting is partly what is keeping CN's intermodal numbers positive despite significant declines in tariff-exposed sectors like forest products, metals, and automotive.
+
+---
+
+## Global Chokepoints
+
+The global context for all of the above is Brent crude trading in the $92 to $99 range through the week, with WTI near $99 as the week closed.[^7] These are not the peak prices of March, when Brent briefly touched $119 as the Strait first closed. They reflect the brief reprieve of a partial ceasefire that opened limited transit in exchange for per-vessel tolls that alone exceeded $1 million per ship. The ceasefire collapsed during the week.
+
+On April 13 — technically after the digest's Friday close, but the dominant event as this issue was being written — the Trump administration announced that the US Navy would impose a naval blockade of the Strait of Hormuz. Brent moved past **$103 per barrel** on the announcement.[^8]
+
+The IEA has characterised the cumulative disruption as the largest in oil market history — larger, in supply terms, than both 1970s crises combined. The Strait is 33 kilometres wide at its narrowest point. That is the physical bottleneck through which roughly a fifth of the world's seaborne oil normally passes. When that corridor closes, the value of every alternative — including a landlocked Canadian province with a newly expanded Pacific pipeline — rises accordingly.
+
+The logistics pass-through from the first issue of this digest is worth tracking forward. Amazon's 3.5% fuel and logistics surcharge, reported April 3, represents first-order retail exposure. Expect second-order exposure in food prices, construction inputs, and anything with a cold-chain component as the disruption extends.
+
+---
+
+## CUSMA and the Energy Proportionality Question
+
+Running in the background this week was a CBC analysis of whether Canada should accept energy proportionality provisions in a renegotiated CUSMA.[^9] Energy proportionality — a clause from the original NAFTA, dropped in the 2020 agreement — would require Canada to maintain minimum US access to Canadian oil and gas, even during domestic supply emergencies. US trade envoy Jamieson Greer confirmed that tariffs are likely to remain as part of any renewed deal.
+
+The timing makes the proportionality question concrete rather than theoretical. A Trans Mountain running at 95% capacity to Asian buyers, during a global energy crisis, with a US Navy blockade announced the day after the CBC analysis was published, is precisely the scenario in which a proportionality clause would bind. If Canada is contractually required to direct minimum volumes toward the US market, the flexibility that made the TMX investment's return possible is partially constrained.
+
+CUSMA talks are expected to continue past the nominal July 1 deadline. The Carney government has appointed Janice Charette, former Clerk of the Privy Council, as chief trade negotiator.
+
+---
+
+## Governance Shift
+
+The week ended with a political variable changing in a way that matters for every other story in this digest.
+
+The Carney Liberals swept three federal byelections on April 13 — University-Rosedale and Scarborough Southwest in Toronto, and Terrebonne near Montreal — bringing the Liberal caucus to **174 seats** and a clear majority.[^10] Combined with five recent floor crossings, this gave the government full legislative control for the first time since the April 2025 election.
+
+For a systems digest, the governance shift matters because it changes the implementation timeline for physical infrastructure decisions that had been held in a minority government's uncertainty queue: the Trade Diversification Corridors Fund, the Arctic Infrastructure Fund, major project assessment reform, internal trade barrier removal, and the posture on CUSMA energy provisions.
+
+A minority government negotiates every bill. A majority government can move. Whether the Carney government uses that room to accelerate the diversification infrastructure or to moderate it in the interests of a CUSMA deal will be the dominant policy variable of the next several months.
+
+---
+
+## Why These Belong Together
+
+The five stories in this week's digest — Alberta's Hormuz windfall, Canada's gold-adjusted diversification gap, Canadian port outperformance, the CUSMA energy proportionality debate, and the shift to majority government — are not independent.
+
+They all sit inside the same underlying problem: a country that has decided to pivot its trade geography toward non-US markets, at the same moment a global energy crisis has made its existing Pacific export infrastructure highly valuable, while negotiating a trade deal with the country it is trying to pivot away from.
+
+The physical system is moving. The commercial relationships are lagging. The governance constraints are loosening. And the price environment is compressing all of it into a shorter time horizon than anyone planned for.
+
+That tension — between the infrastructure that has been built and the trade patterns that have not yet caught up to it — is the structural story of 2026. This digest will keep tracking it.
+
+---
+
+## Sources This Week
+
+[^1]: ATB Financial / CTV Edmonton, "[Alberta's economic outlook amidst tariffs, military conflicts, and surging oil prices](https://www.ctvnews.ca/edmonton/video/2026/04/10/albertas-economic-outlook-amidst-tariffs-military-conflicts-and-surging-oil-prices/)," April 10, 2026.
+
+[^2]: ATB Economics, "[Alberta's economy remains resilient amid geopolitical turmoil](https://boereport.com/2026/03/26/albertas-economy-remains-resilient-amid-geopolitical-turmoil/)," BOE Report, March 26, 2026.
+
+[^3]: Statistics Canada, "[The Trans Mountain Pipeline is Delivering](https://www.statcan.gc.ca/o1/en/plus/8439-trans-mountain-pipeline-delivering)," published 2026.
+
+[^4]: Global Affairs Canada, Office of the Chief Economist, "[Quarterly Economic and Trade Report: Spring 2026](https://international.canada.ca/en/global-affairs/corporate/reports/chief-economist/quarterly/spring-2026)," published April 8, 2026.
+
+[^5]: Sourcing Journal, "[CN, CPKC intermodal volumes: Canadian ports hold as US slows](https://sourcingjournal.com/topics/logistics/cn-cpkc-intermodal-volume-railroad-rail-tariffs-canada-west-coast-ports-gemini-cooperation-maersk-hapag-lloyd-1234746709/)," April 2026.
+
+[^6]: The Logic, "[North America's closest port to Asia has a $1B plan to dodge Trump's trade war](https://thelogic.co/news/prince-rupert-port-canada-trade-war-tariffs/)," April 2026.
+
+[^7]: Investing.com / Reuters, "[ANZ raises Brent crude view as Strait of Hormuz disruptions persist](https://www.investing.com/news/commodities-news/factboxubs-raises-brent-oil-price-view-as-straitof-hormuz-disruptions-persist-4610170)," April 2026.
+
+[^8]: Al Jazeera, "[Oil prices surge past $103 a barrel after US announces blockade of Iran](https://www.aljazeera.com/economy/2026/4/13/oil-prices-surge-past-103-a-barrel-after-us-announces-blockade-of-iran)," April 13, 2026.
+
+[^9]: CBC News, "[In a new CUSMA, should Canada offer the US stronger energy rights?](https://www.cbc.ca/news/business/cusma-energy-proportionality-9.7159330)," April 12, 2026.
+
+[^10]: CBC News, "[Carney clinches majority government with 3 Liberal byelection wins](https://www.cbc.ca/news/politics/byelection-liberal-conservatives-carney-majority-government-9.7161054)," April 14, 2026.

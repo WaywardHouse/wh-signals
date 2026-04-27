@@ -1,0 +1,145 @@
+---
+title: System Signals No. 3
+subtitle: >
+  The CN bridge, the Pacific pipeline paradox, and the distance between
+  an energy superpower and its nearest tide water
+date: 2026-04-16
+issue: 3
+description: >
+  A weekly systems digest on what moved beneath the headlines in the week
+  ending April 16, 2026: a 57-year-old bridge cuts Trans Mountain tanker
+  departures nearly in half, the Pacific diversification pipeline remains
+  18 months from even a formal application, Carney's majority clears the
+  political uncertainty queue, and Canada's trade deficit complicates the
+  CUSMA negotiating story.
+categories:
+  - "Economic Geography"
+  - "Infrastructure"
+  - "Energy Policy"
+image: assets/images/signals.webp
+toc: true
+---
+
+> **Published April 16, 2026.** _System Signals_ is a recurring Wayward House briefing for readers who want the week sorted by system rather than by noise. This issue covers the week ending Thursday, April 16, 2026.
+
+---
+
+## This Week's Pattern
+
+The phrase "energy superpower" has been deployed several dozen times by several senior politicians this week. The phrase is doing the work that evidence is not yet doing.
+
+Canada's oil is worth more than it has been in years. Brent crude crossed $100 per barrel and held there. The Strait of Hormuz is under a U.S. Navy blockade. Asian energy markets are in acute anxiety. Trans Mountain's expanded system was built precisely for this moment — the moment when Canadian heavy crude commands a premium because the alternative routes are gone. The economics of a Pacific export corridor have never looked better on paper.
+
+And yet in the week that the global oil market needed Canada most, Trans Mountain tanker departures from Westridge Marine Terminal dropped to 17 per month — down from a target of 30. The constraint was not pipeline capacity. It was a vertical-lift bridge on the CN Second Narrows crossing in Vancouver, built in 1968, that failed mechanically and locked in its lowered position for four days, stranding 13 vessels.[^1]
+
+One aging bridge, on one rail corridor, connecting one set of bulk terminals — and Canada's newest, most expensive, most strategically significant piece of energy export infrastructure was running at 57% of capacity during the tightest oil market in a generation.
+
+The bridge story is this week's system story. Not because of what it cost in February — though the number is significant — but because of what it reveals about the gap between Canada's stated infrastructure ambitions and the connective tissue those ambitions depend on. The big investments get made. The bridges get deferred. When the moment arrives, it is the bridges that bind.
+
+---
+
+## The Blockade Holds
+
+The Strait of Hormuz disruption, which has been the structural backdrop of every issue of this digest, went further this week.
+
+On April 12, the Trump administration announced that the U.S. Navy blockade of Iranian ports was fully implemented, with all transit attempts being turned back.[^2] Brent crude moved to $102 per barrel on the announcement and held there through the week. WTI touched $104. The IEA's characterisation from the previous week — that this is the largest oil supply disruption in market history, larger in volume terms than both 1970s crises combined — now has a confirmed implementation behind it, not just an announced intent.
+
+The blockade is estimated to cost Iran roughly $435 million per day in oil export revenues. That number gives some indication of the ceasefire economics: the per-vessel toll arrangement that briefly opened limited Hormuz transit in late March cost operators over $1 million per ship and lasted less than two weeks before collapsing. The incentive structures do not currently favour a negotiated opening.
+
+For Canadian energy economics, this is a sustained structural condition, not an acute event. A $100+ oil price that persists through the Hormuz disruption is a different planning environment than a $100 spike followed by normalisation. Alberta's producers are now setting capital allocation on the assumption that elevated prices will last at least through year-end. The ATB Economics forecast revision to **2.7% real GDP growth** for Alberta in 2026 — published the previous week — was already incorporating this assumption.[^3] If the blockade holds through Q3, that number will likely be revised up again.
+
+The pass-through to Canadian consumers, however, is accelerating. The Carney government's decision this week to suspend the federal fuel excise tax — 10¢ per litre on gasoline, 4¢ per litre on diesel — from April 20 through September 7 is the first-order policy response to the Hormuz premium landing on household budgets.[^4] At roughly $2.4 billion in foregone federal revenue, it is the largest single affordability measure of the year. It is also, as this digest noted last week, a cost that Albertans are simultaneously experiencing on both sides of their ledger: in production revenue and in weekly fill-ups.
+
+---
+
+## The Bridge and the Bottleneck
+
+The CN Second Narrows bridge failure is worth understanding as a system failure, not just an infrastructure incident.
+
+The bridge is a vertical-lift rail crossing over Burrard Inlet, connecting the south shore of Vancouver to the North Shore bulk terminals — grain, potash, coal, and the tanker-loading facilities that serve Trans Mountain's Westridge terminal. It was built in 1968 and has been flagged by Transport Canada, port executives, and industry groups as an infrastructure risk for several years. The February failure — in which a mechanical fault locked the bridge in its lowered position — was not a surprise to anyone who tracks port infrastructure closely.[^5] It was a risk that had been quantified, communicated, and deferred.
+
+When the bridge locked, 13 vessels were stranded. February tanker departures from Westridge fell to 17 — against a monthly target of 30 — a 43% shortfall. At current crude prices and Trans Mountain throughput, each deferred tanker departure represents approximately $70 to $90 million CAD in deferred sales. The February shortfall was roughly $900 million to $1.2 billion in lost revenue from a single mechanical failure at a single bridge.
+
+The bridge was repaired within four days. The revenue is not recoverable. The tariff-anxious Asian buyers who needed February volumes found other, more expensive supply.
+
+The structural reading is this: the Trans Mountain expansion cost $34 billion and took years of political and legal contestation to complete. The connective infrastructure — the 57-year-old lift bridge that gates access to the terminal — has not been replaced. Canada made the large capital commitment and deferred the mundane one. In a normal market, this asymmetry is visible but manageable. In a $100/barrel market with a fully implemented naval blockade, the cost of that asymmetry becomes legible.
+
+The bridge is a proxy for a broader pattern. Prince Rupert's near-$1 billion terminal expansion is in progress, but the road and rail access to Prince Rupert remain constrained. The Westridge terminal can accommodate roughly 15 to 20 Aframax tankers per month at full operation. These constraints did not appear this week. They have been the binding variable since Trans Mountain came online. They are simply more expensive this week than they were last month.
+
+---
+
+## The Diversification Paradox
+
+Two analyses published this week by energy economist Heather Exner-Pirot document a contradiction that sits at the centre of Canada's "energy superpower" narrative.[^6]
+
+**Eighty-three percent of Canadians polled support oil export diversification** — the highest measured support on record, presumably elevated by the combination of U.S. tariff threats and Hormuz-driven Asian demand anxiety. The public mandate for a Pacific export corridor is as clear as it has been.
+
+And yet: **nearly 90% of Alberta's oil exports still flow to the United States**. The new pipeline proposals that have been advanced in recent months — despite the rhetorical pivot toward Asian markets — still predominantly target U.S. Midwest refinery markets. The Enbridge system, the existing regulatory pathways, the existing refinery relationships, the existing tariff structures — all of them create enormous gravitational pull toward the south. Building a new pipeline to an Asian-facing tidewater terminus requires contesting that entire institutional architecture.
+
+The proposed Northwest Coast pipeline — the one that would meaningfully change the Pacific export equation — is not expected to file a formal application until July 1, 2026 at the earliest. Regulatory review timelines for major pipeline projects run three to five years in the best case. If an application is filed in July, first oil is not before 2030 in an optimistic scenario.
+
+The Hormuz blockade created a window in which Canadian Pacific export capacity would command extraordinary premiums. That window may or may not persist to 2030. The structural question is whether the current price signal is strong enough, and durable enough, to override the inertia of a supply system that has been oriented southward for 40 years.
+
+Exner-Pirot's argument is that the fiscal incentives have not caught up to the stated policy. The Investment Tax Credit framework, existing royalty structures, and pipeline tariff economics all continue to make U.S.-directed capacity the path of least resistance for new investment. Changing the headline narrative is easier than changing the embedded incentive structure. The latter is what actually moves oil.
+
+---
+
+## Contrecœur and the Atlantic Pivot
+
+On April 9, Prime Minister Carney broke ground on the Contrecœur terminal expansion south of Montreal — the first infrastructure project cleared under the government's expedited "nation-building" approvals framework.[^7]
+
+The project is significant on its own terms: it will increase Port of Montreal container capacity by approximately 60%, includes integrated rail, road, and marine infrastructure, and is financed with $1.16 billion through the Canada Infrastructure Bank. Construction begins immediately. The approvals process — which under the standard environmental review timeline would have taken years — was accelerated through the nation-building designation.
+
+The political signal embedded in the groundbreaking is worth reading carefully. Carney's government is using its first demonstrated use of the accelerated approvals framework not for a Pacific energy corridor but for an Atlantic container port. The choice reflects several things simultaneously: the Contrecœur project had a cleaner regulatory record than any Pacific pipeline candidate, the St. Lawrence corridor is central to the Quebec seats the Liberals needed to hold, and container port capacity is a more tractable diversification story than a contested pipeline.
+
+On the trade geography: as this digest noted last week, the CN and CPKC intermodal data shows that Canadian West Coast gateways are currently outperforming U.S. counterparts as Pacific cargo reroutes to avoid tariff exposure. Contrecœur extends that logic to the Atlantic. The government is building a more diversified port system, which is the right long-run architecture. Whether it is sufficient to the specific pressure of a $100 oil market and a locked Hormuz Strait is a different question.
+
+The pairing of Contrecœur and the CN bridge story in the same week is instructive. Canada is breaking ground on new Atlantic container capacity while Trans Mountain tanker departures are running 43% below target due to an unrepaired 1968 rail bridge a kilometre from the export terminal. The investment logic and the maintenance logic are operating on different timelines, funded through different mechanisms, and subject to different political incentives.
+
+---
+
+## The Majority and the CUSMA Clock
+
+The Carney government's consolidation of a parliamentary majority — confirmed on April 13 with the sweep of three byelections[^8] — changes the political economy of every other story in this digest. The fuel tax suspension was the immediate policy output. The structural change is more significant.
+
+A minority government negotiates the implementation of every major decision. The Trade Diversification Corridors Fund, the Arctic Infrastructure Fund, the nation-building approvals framework, the posture on CUSMA energy provisions — all of these were being made in the context of a confidence clock. That clock is now off until 2029. The political uncertainty discount on Canadian infrastructure capital allocation has dropped materially.
+
+The CUSMA formal review window opens July 1. The February merchandise trade data — released April 2 — showed Canada's goods trade deficit at **$5.7 billion**, a six-month high driven by record gold and precious metals imports and a 35% surge in U.S. crude imports.[^9] TD Economics characterises the gold import spike as tariff-front-running: businesses and institutions moving physical assets through Canadian customs ahead of potential tariff changes. As a financial stress indicator, it is informative. As a negotiating position, it complicates the narrative.
+
+Carney's trade team has been publicly arguing that Canada buys more from the U.S. than the U.S. buys from Canada — a straightforward argument that Canada is a net benefit to U.S. exporters. The February data undercuts that framing: Canada is currently running a significant goods deficit with the United States, which the tariff front-running likely exaggerates in the short term but which reflects real structural patterns in automotive, crude oil, and intermediate goods. The negotiating position is more complicated than the public framing acknowledges.
+
+Jamieson Greer, the U.S. trade envoy, confirmed this week that tariffs are likely to remain as part of any renewed CUSMA deal. Janice Charette, former Clerk of the Privy Council, has been appointed as Canada's chief trade negotiator. The formal review begins in 11 weeks.
+
+---
+
+## Why These Belong Together
+
+Five stories. One system.
+
+A global oil disruption reprices Canadian energy assets upward at the same moment Canada's export infrastructure fails to capture the premium. A government breaks ground on a container port on the wrong coast for the specific crisis at hand. Public support for diversification has never been higher, but the institutional architecture of the supply system has never been more southward-pointing. And a majority government arrives with a full infrastructure mandate in the same week its own trade data complicates the negotiating position it will need to hold for the next three months.
+
+The underlying tension is between the **infrastructure Canada has built**, the **infrastructure Canada claims it is building**, and the **infrastructure Canada has deferred**. Trans Mountain was built. Contrecœur is being built. The CN Second Narrows bridge was deferred. A Pacific export pipeline may be built in the 2030s. The gap between what the current price environment demands and what the physical system can currently deliver is measured in lost tankers, narrowed negotiating positions, and the distance — still unspanned — between Alberta's oil and a Pacific tidewater.
+
+That distance is the structural story of 2026. This digest will keep tracking it.
+
+---
+
+## Sources This Week
+
+[^1]: Globe and Mail, "[Broken CN Rail bridge at Vancouver port saps energy superpower ambitions](https://www.theglobeandmail.com/business/article-broken-cn-rail-bridge-at-vancouver-port-saps-energy-superpower/)," April 2026; Business in Vancouver, "[Mechanical problem halts CN Second Narrows bridge](https://www.biv.com/news/transportation/broken-rail-bridge-stopping-ships-from-reaching-metro-vancouver-terminals-11927081)," 2026.
+
+[^2]: CNBC, "[U.S. says Hormuz blockade 'fully implemented,' signaling diplomatic off-ramp](https://www.cnbc.com/2026/04/15/us-strait-of-hormuz-blockade-navy-iran-seaborne-trade-oil-trump.html)," April 15, 2026; Al Jazeera, "[How much will US Hormuz blockade hurt Iran?](https://www.aljazeera.com/news/2026/4/14/how-much-will-us-hormuz-blockade-hurt-iran-and-does-tehran-have-an-escape)," April 14, 2026.
+
+[^3]: ATB Financial / CTV Edmonton, "[Alberta's economic outlook amidst tariffs, military conflicts, and surging oil prices](https://www.ctvnews.ca/edmonton/video/2026/04/10/albertas-economic-outlook-amidst-tariffs-military-conflicts-and-surging-oil-prices/)," April 10, 2026.
+
+[^4]: PM.gc.ca, "[Prime Minister Carney suspends federal fuel excise tax on gasoline and diesel](https://www.pm.gc.ca/en/news/news-releases/2026/04/14/prime-minister-carney-suspends-federal-fuel-excise-tax-gasoline-and)," April 14, 2026; CBC News, "[Carney temporarily suspending federal fuel excise tax](https://www.cbc.ca/news/politics/carney-fuel-excise-tax-affordability-9.7162911)," April 14, 2026.
+
+[^5]: Daily Hive, "[Burrard Inlet's lift rail bridge stuck for days](https://dailyhive.com/vancouver/second-narrows-rail-bridge-malfunction)," 2026.
+
+[^6]: The Hub, "[Canada has 83% support for oil export diversification, yet incentives still favour pipelines to the U.S.](https://thehub.ca/2026/04/13/canada-has-83-percent-support-for-oil-export-diversification-yet-the-country-is-still-set-on-building-pipelines-to-the-u-s/)," April 13, 2026; The Hub, "[Canada can't be an energy superpower if it keeps doubling down on U.S. oil exports](https://thehub.ca/2026/04/10/canada-cant-be-an-energy-superpower-if-it-keeps-doubling-down-on-u-s-oil-exports/)," April 10, 2026.
+
+[^7]: PM.gc.ca, "[Prime Minister Carney breaks ground on Contrecœur terminal expansion at the Port of Montreal](https://www.pm.gc.ca/en/news/speeches/2026/04/09/prime-minister-carney-breaks-ground-contrecoeur-terminal-expansion-port)," April 9, 2026; CBC News, "[Port expansion near Montreal kicks off as first 'nation-building' project](https://www.cbc.ca/news/canada/montreal/port-expansion-quebec-9.7158071)," April 9, 2026.
+
+[^8]: CBC News, "[Carney clinches majority government with 3 Liberal byelection wins](https://www.cbc.ca/news/politics/byelection-liberal-conservatives-carney-majority-government-9.7161054)," April 14, 2026; CTV News, "[PM Mark Carney's majority is official: what it means for Parliament](https://www.ctvnews.ca/politics/article/pm-mark-carneys-majority-is-official-what-it-means-for-parliament/)," April 2026.
+
+[^9]: Statistics Canada, "[Canadian international merchandise trade, February 2026](https://www150.statcan.gc.ca/n1/daily-quotidien/260402/dq260402a-eng.htm)," April 2, 2026; BNN Bloomberg, "[Canada's February trade deficit surges to six-month high on gold imports](https://www.bnnbloomberg.ca/business/2026/04/02/canadas-february-trade-deficit-surges-to-a-six-month-high-on-gold-imports/)," April 2, 2026.

@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Wayward House"
+  site-url: "https://wayward.house/signals"
+  description: "System Signals — a weekly digest on what moved beneath the headlines in geography, energy, and economy."
+  navbar:
+    left:
+      - href: index.qmd
+        text: All Issues
+    right:
+      - text: "↩ Wayward House"
+        href: "https://wayward.house"
+  page-navigation: true
+  back-to-top-navigation: true
+  search:
+    location: navbar
+    type: textbox
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    html-math-method: katex
+
+execute:
+  freeze: auto

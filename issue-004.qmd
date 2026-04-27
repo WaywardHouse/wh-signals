@@ -1,0 +1,207 @@
+---
+title: System Signals No. 4
+subtitle: >
+  The entry fee, the $20 round trip, and the fuel bill landing on
+  everything from airlines to groceries
+date: 2026-04-24
+issue: 4
+description: >
+  A weekly systems digest on what moved beneath the headlines in the week
+  ending April 24, 2026: Washington demands an "entry fee" before CUSMA
+  talks begin, oil makes a $20 round trip in five days, airlines cut
+  capacity and grocers absorb fuel surcharges, Trans Mountain posts its
+  first full-utilization month, Alberta tables a 120-day approvals bill
+  while a cabinet minister publishes a statistically shaky case that
+  Ottawa starves the province of federal investment, and the Bank of
+  Canada prepares for its most consequential rate decision of the year.
+categories:
+  - "Economic Geography"
+  - "Trade Policy"
+  - "Energy Policy"
+image: assets/images/signals.webp
+toc: true
+---
+
+> **Published April 24, 2026.** _System Signals_ is a recurring Wayward House briefing for readers who want the week sorted by system rather than by noise. This issue covers the week ending Thursday, April 24, 2026.
+
+---
+
+## This Week's Pattern
+
+The defining move of this week was not the one that made oil prices move. It was the one that revealed the shape of the trade negotiation Canada is actually in.
+
+Reporting this week described what Canadian sources characterize as U.S. preconditions for launching the CUSMA review file — movement on dairy access, provincial liquor board regulations, and digital policy — before Washington will engage on the broader agreement.[^1] Canadian media and commentators have labelled that package an "entry fee," but Prime Minister Carney has said he has not heard that language from the U.S. President.[^1] The formal review window opens July 1 — ten weeks away.
+
+Canada's response was to refuse and to internationalize. Trade Minister Dominic LeBlanc convened a multi-partisan advisory committee — including Erin O'Toole and Jean Charest — and accused Washington of "weaponizing dependency." The Prime Minister said flatly that Canada would not pay any entry fee, and that the talks will "take some time."[^2][^16]
+
+That phrase — "take some time" — is doing more analytical work than it appears. It signals that the Carney government is not trying to close a deal before July 1. It is managing toward a longer negotiation, which means living with the current tariff regime for longer, which means every other policy decision — the Bank of Canada's rate path, Alberta's investment approvals, Trans Mountain's export logistics — is being made in a sustained trade war context rather than a pre-deal calm.
+
+That is the week's pattern. Not chaos, but a structural settling-in.
+
+---
+
+## The Entry Fee
+
+The geometry of the CUSMA deadlock is worth understanding precisely, because the "entry fee" story is not about dairy or liquor boards. It is about sequencing.
+
+Canada has already made two significant unilateral moves. The digital services tax — a long-standing irritant to Washington — was suspended indefinitely before talks began. Several retaliatory tariffs that had been announced were pulled back. These concessions were made in the expectation of reciprocity; they received none. The U.S. is now treating those movements as the floor of negotiations, not as goodwill gestures, and is demanding further concessions before sitting down at the table.[^2]
+
+The multi-partisan advisory committee is a sensible domestic political move — it makes any future deal harder to attack and harder to kill in Parliament. But it is also, as a practical matter, a way of distributing accountability before a negotiation that is likely to produce an unsatisfying outcome. The committee does not accelerate talks. It manages the political back-end of whatever comes out of them.
+
+The formal CUSMA review window opens July 1. From that date, any party can formally trigger a six-year review process. What happens in practice depends entirely on whether Washington wants to use that mechanism as leverage or as a genuine renegotiation. The current signalling — extract concessions now, before the trigger, then extract more after — suggests the former.
+
+Ten weeks is not a long time.
+
+---
+
+## Oil's $20 Round Trip
+
+The week opened with the largest single-day oil price decline in months. On April 17, Iran declared the Strait of Hormuz "completely open" to commercial vessels during a ceasefire arrangement, and oil fell more than eleven percent: WTI dropped to $83.85, Brent to $90.38.[^3]
+
+Forty-eight hours later, the ceasefire was fracturing. U.S. and Iranian forces were engaged in fresh ship seizures; tanker incidents were reported at two Hormuz waypoints. WTI rebounded seven percent to $89.61 by April 19. By April 22, Brent was back above $101.[^4]
+
+A twenty-dollar round trip in five days.
+
+The structural reading is that the ceasefire created a price signal, not a supply signal. The actual volume of oil moving through the Strait during the ceasefire was minimal — three ships crossed on the peak day, against a pre-crisis normal of 40 or more. The Strait did not reopen meaningfully. What the ceasefire opened was a trading opportunity for anyone positioned to react to a single diplomatic statement. The physical supply architecture did not change.
+
+For Alberta, this matters in a specific way. Each $10 move in WTI translates to approximately $400 million per month in provincial royalty revenues at current production volumes. A seventeen-dollar swing over five days is a budgeting problem, not just a market event. ATB Economics' revised Alberta GDP forecast of **2.7% real growth** was built on a WTI assumption of US$75 per barrel. The actual WTI range this week ran from $83.85 to over $90. The upside is real; the volatility makes it hard to bank.
+
+The loonie is adding a further complication. Historically, the Canadian dollar tracks oil prices with reasonable fidelity — the currency is, in effect, a leveraged oil position for much of the world's investment community. That correlation has weakened materially this year. The dollar did not fully track the recent oil surge, and currency markets appear to be pricing in a structural trade risk discount on Canada that oil prices alone are not resolving.[^5] If the loonie decouples from oil in a sustained way, the real value of Canada's oil revenue — once converted to US dollars for international transactions — will underperform the headline price.
+
+---
+
+## The Fuel Bill Lands
+
+The doubling of jet fuel prices — from roughly $96 per barrel before the Hormuz closure to approximately $195 per barrel now — has been the background condition of this digest since February. This week it started producing visible, legible consequences in two sectors that most Canadians encounter directly.
+
+**Aviation.** WestJet announced capacity reductions of approximately 1% in April, 3% in May, and nearly **6% in June** — equivalent to 279 fewer flights and 25,769 fewer seats over the summer peak, based on Cirium schedule data.[^10] Air Canada went further, suspending six routes effective June 1: the Toronto–New York JFK service (three daily frequencies cancelled), Montreal–JFK, Toronto–Salt Lake City, Toronto–Yellowknife, Vancouver–Fort McMurray, and a planned Montreal–Guadalajara launch. Air Canada also raised its basic economy checked bag fee from $35 to $45. WestJet added a $60 temporary fuel surcharge on companion vouchers and a $50 per person surcharge on Sunwing vacation packages.
+
+Fuel represents approximately 24% of Air Canada's operating costs. The YYZ–JFK suspension is notable for a structural reason that goes beyond fuel: that route competes with Porter and rail, and was likely already marginal on yield. The Fort McMurray and Yellowknife cuts are starker — those are routes serving resource communities and northern residents for whom air connectivity is not discretionary. Aviation economist John Gradek at McGill noted this week that if the conflict extends further, some smaller carriers may not survive the fuel cost environment at all.
+
+**Groceries.** Statistics Canada's March 2026 CPI release, published April 20, reported fresh vegetables up **7.8% year-over-year** — the largest increase since August 2023.[^11] The proximate cause cited by Stat Can was production difficulties in supplying countries; the Hormuz-driven fuel cost pass-through is a separate and emerging layer that will show more clearly in April and May readings.
+
+That pass-through is already moving through the supply chain. At least four major food suppliers have added explicit fuel surcharges to grocery orders: Maple Leaf at **11 cents per kilogram** on all prepared meat and fresh poultry (effective April 6), Sunrise Farms at **5 cents per kilogram** plus $10 per truckload (effective April 13), with CTS Foods and Tree of Life adding surcharges of their own. The amounts range from $15 to $50 per truckload depending on distance and product type.[^12]
+
+Large chains — Empire (Sobeys, Safeway) and Loblaw — have the buying power to resist or absorb supplier surcharges. Independent grocers, operating on margins of around 2% against the large chains' 3.5%, do not. The Retail Council of Canada confirmed this week that its independent members are under acute pressure.
+
+The northern dimension is sharper still. Transportation represents 10 to 15% of retail fresh produce costs on average; for communities served by air freight — effectively all perishables north of the rail line — that fraction is far higher. North West Co. has added 20 to 50 cents per pound on air-freighted items. Air North implemented a 3% fuel surcharge on April 1. A standard 24-item food basket in Nunavut is currently priced at $198.75, compared to $132.44 for the same basket in Ottawa.[^13]
+
+The airline cuts and the grocery surcharges are not separate stories. They are the same $100-barrel-of-jet-fuel story, expressed through two of the most visible systems in everyday Canadian life. The price signal that Alberta producers are banking as revenue is the same signal that a northern grocery store is passing on at the till.
+
+---
+
+## Trans Mountain's First Full Month
+
+Against the oil price volatility, one number from the pipeline system came in clean: Trans Mountain has been running near full in April (high-90% utilization), with executives explicitly framing it as demand-side — Asian buyers turning to Canadian barrels amid Middle East disruptions.[^6]
+
+Two additional details matter.
+
+First: April nominations were not apportioned (0% apportionment), which is the operational signal that shipper demand is meeting available capacity rather than leaving slack in the system.[^6]
+
+Second: the relevant benchmark discount story is the **WTI–WCS** differential. The Canada Energy Regulator shows the differential averaging roughly **US$12 per barrel** over June 2024 to July 2025 after the expansion entered service — a narrower spread than the constrained period leading into startup.[^6]
+
+Third: Trans Mountain has also opened a binding "Open Season" to contract additional firm service on existing capacity — an explicit signal that shippers are trying to lock in space rather than rely on spot nominations.[^6]
+
+That narrowing differential is the return on a $34 billion investment. It is also, now, a concrete negotiating variable.
+
+The U.S. has been floating a revival of energy proportionality clauses — provisions from the original NAFTA, dropped in the 2020 CUSMA revision — that would require Canada to maintain minimum American access to Canadian oil and gas output, even during domestic supply emergencies.[^7] In 2020, energy proportionality was a theoretical concern. In April 2026, with Trans Mountain running at 95% capacity to Asian buyers and Brent above $100, it is a direct constraint on Canada's ability to sell its most valuable export to its highest-bidding customer.
+
+If proportionality is reinstated in any form, the mechanism that makes the Trans Mountain expansion financially viable — selling Canadian heavy crude at something close to Brent, rather than at a deep WTI discount to Midwest refiners — is partially constrained by treaty. That is not a hypothetical anymore. It is a live clause in a negotiation that starts in ten weeks.
+
+---
+
+## Alberta's Parallel Game
+
+While Ottawa assembles advisory committees and holds on the CUSMA entry fee question, Alberta is moving on its own regulatory timeline.
+
+Bill 30 — the proposed Expedited 120-Day Approvals Act — was tabled on April 14 and received second reading debate this week.[^8] The bill creates a structured fast-track for major energy, mining, and industrial projects with at least $250 million in capital investment. Projects referred to a deputy ministers' committee trigger a Cabinet Order in Council and a mandatory 120-day regulatory clock. Environmental assessment and Indigenous consultation must be substantially completed before the clock starts; once it is running, it cannot be paused.
+
+The political context is straightforward: the Carney government's Major Projects Office has been offering accelerated federal approvals as a competitive advantage in attracting post-tariff investment. Alberta is introducing its own fast-track mechanism, separate from — and potentially in tension with — the federal process. Two "fast lanes" for the same projects, run by different governments with different mandates, is not the same as one fast lane.
+
+The 120-day hard ceiling creates a pressure the federal system does not currently have. A mandatory clock that cannot be paused is a different regulatory instrument than an "expedited" review with no statutory deadline. It will draw investment attention. It will also, almost certainly, produce first conflicts with federal environmental and Indigenous rights oversight — not because those requirements are removed, but because the back-end of the clock is where they will collide with project timelines.
+
+That collision has not happened yet. It will.
+
+---
+
+## The Shut-Off Valve
+
+Alberta's Minister of Technology and Innovation, Nate Glubish, published a detailed Substack post this week under the headline "Alberta Gets the Least. Here's the Math." The piece argues that Alberta ranks last among Canada's four largest provinces in federal grants and contributions per capita, and that the gap cannot be explained by population alone.[^14]
+
+The headline numbers are striking. Glubish analyzed $816 billion in federal grants, stripping out $139 billion in Indigenous-directed funding to leave $677 billion for provincial comparison. On ISED (Innovation, Science and Economic Development Canada) funding, he finds Ontario receiving $3,622 per person against Alberta's $524 — a **6.9 times gap**. Ontario's top ten ISED grant recipients received $42.4 billion combined; Alberta's top ten received $1.68 billion. Ontario is 3.3 times larger by population but received 25 times more ISED funding. On federal venture capital through the Venture Capital Catalyst Initiative, the pattern is absolute rather than proportional: no VCCI fund manager has ever been headquartered in Alberta.
+
+The piece is circulating widely in Alberta business and political circles. It is worth engaging with seriously — the VC geography finding is real, and ISED concentration is a legitimate question. But the argument has three structural flaws, and the most important one goes unmentioned in the post entirely.
+
+**The numerator is siloed.** Glubish isolates ISED and calls it "innovation funding." In Alberta's resource-heavy economy, the federal government channels the bulk of energy innovation support through Natural Resources Canada and the Canada Growth Fund — carbon capture, hydrogen development, methane reduction. These are not industrial subsidies in the sense Ontario's EV battery plants are; they are, by any reasonable definition, R&D and technology deployment programs. Excluding them from the innovation numerator while including the EV plants in Ontario's is the move that generates the 6.9x headline. A whole-of-government R&D comparison would produce a meaningfully different ratio.
+
+**The denominator is wrong.** Federal innovation funding is application-driven and cluster-dependent, not population-distributed. Ontario has more research-intensive universities, more established tech companies, and more ISED-eligible applicants per capita. Alberta, notably, receives *more* NRC-IRAP funding per capita than either Ontario or Quebec — that is the program designed for small business innovation, where the population denominator comes closest to being appropriate. The gap appears largest in programs with large discretionary envelopes where the right question is not "how many people live here?" but "how many eligible applicants applied, and what was the quality of those applications?"
+
+**The shut-off valve.** This is the argument Glubish does not make, because he cannot. The UCP government's **Provincial Priorities Act** — introduced as Bill 18, in full effect since April 2025 — requires all provincial entities, including universities and municipalities, to obtain provincial government approval before accepting federal grants.[^15] A federal agency distributing $100 million in research funding now faces a straightforward choice: direct it to a BC university (standard approval timeline) or an Alberta university (add six to twelve months of politically volatile provincial review). Federal departments have adapted accordingly. The lower Alberta numbers Glubish presents are, in measurable part, a reflection of the political risk premium his own government has imposed on the province's institutions.
+
+The UCP has run a version of this pattern across multiple files. Alberta was among the last provinces to sign the federal childcare agreement, and implementation has been contested. It remains the primary holdout on dental and pharmacare, seeking opt-out arrangements while the funding flows to other provinces. These are legitimate jurisdictional positions. They are not cost-free ones.
+
+The systems framing for what Glubish is describing is a **success-to-the-successful trap with a provincial twist**: the government installs barriers to federal funding, federal money flows elsewhere, the lower numbers are cited as evidence of unfair treatment, that evidence energises the base, and the political logic of further barriers is strengthened. The loop is self-sealing.
+
+None of this makes the VC geography finding wrong. The absence of any Alberta-headquartered VCCI fund manager is a real structural gap. Alberta's Enterprise Corporation has leveraged $430 million in provincial commitments into $1.6 billion invested in 103 companies since 2008 — a track record that could anchor a VCCI partnership. That it has not is a question worth directing at Ottawa. It just deserves a cleaner argument from a minister whose government is also operating a chokepoint on the same funding it is complaining about.
+
+---
+
+## The Bank of Canada's Dilemma
+
+The April 29 interest rate decision and Monetary Policy Report is the most important economic document Canada will publish this quarter. It arrives in a policy environment that has no clean answer.
+
+The Bank of Canada has held its policy rate at 2.25% since March 18. The dual pressure it is navigating is not subtle: oil price volatility from the Iran war is keeping energy inflation elevated, while tariff uncertainty and trade disruption are suppressing business investment and growth. The textbook response to inflation is to hold or raise rates. The textbook response to a slowing economy under trade pressure is to cut. Both conditions are present simultaneously.[^9]
+
+The consumer-side corroboration arrived April 20: the Bank's Canadian Survey of Consumer Expectations included a special post-war pulse showing most households expect the conflict to weaken the economy and raise prices — especially gasoline and food.[^9]
+
+Markets are split on whether April 29 produces a hold or a 25-basis-point cut. The MPR itself — the Bank's full economic scenario document — will be closely read for how it frames the CUSMA uncertainty. The Bank is expected to publish explicit scenarios rather than a single forecast: one for a negotiated CUSMA outcome, one for a prolonged tariff regime. The gap between those scenarios, in terms of GDP and inflation, is the number that will inform every capital allocation decision made in Canada in the second quarter.
+
+The loonie weakness noted above makes the Bank's calculus harder. A rate cut in a currency that is already trading at a structural discount to its historical oil-price correlation risks accelerating capital outflows. A hold, in a slowing economy absorbing tariff costs, risks pushing the growth scenario in the MPR toward contraction. Neither is comfortable. Both are on the table for Tuesday.
+
+---
+
+## Why These Belong Together
+
+Eight stories. One system under structural stress — and the stress is becoming visible in daily life.
+
+The CUSMA entry fee demand redefines the negotiating timeline: this is not a sprint to July 1, it is a managed long game, and every other policy decision Canada makes this spring is being made in that context. Oil's $20 round trip illustrates how thin the ceasefire economics are, and why Alberta's royalty budgeting is harder than the headline WTI number implies. The same fuel cost that inflates Alberta's royalty receipts is cutting WestJet's June schedule by 6% and adding 11 cents per kilogram to a grocery order in Iqaluit — the price signal is unified even when its beneficiaries and its victims are not. Trans Mountain's full utilization month turns energy proportionality from a theoretical negotiating risk into a concrete one, because the thing the U.S. wants to constrain is now demonstrably working. Alberta's Bill 30 creates a second regulatory fast lane that will produce federal-provincial friction at the back end of the clock. Glubish's capital flows argument, however imperfectly constructed, points at a real structural gap in how federal innovation investment reaches the prairies. And the Bank of Canada, on Tuesday, has to set a rate path for an economy being simultaneously pushed toward inflation by energy prices and toward slowdown by tariff uncertainty.
+
+These are not separate pressures. They are the same pressure — a country being squeezed between a trade partner it is trying to renegotiate with and an energy market it is trying to pivot toward — expressing itself through eight different institutional channels at once, from the federal trade file down to the price of cucumbers.
+
+The system is not breaking. But it is running out of slack.
+
+---
+
+## Sources This Week
+
+[^1]: CBC News, "[Washington demanding 'entry fee' from Ottawa before trade talks, sources say](https://www.cbc.ca/news/politics/washington-demanding-entry-fee-from-ottawa-before-trade-talks-sources-9.7172340)," April 2026; Reuters, "[Trump has not mentioned Canada paying an 'entry fee' ahead of USMCA talks, says Carney](https://www.investing.com/news/commodities-news/trump-has-not-mentioned-canada-paying-an-entry-fee-ahead-of-usmca-talks-says-carney-4633754)," April 23, 2026; BNN Bloomberg, "[LeBlanc accuses U.S. of weaponizing dependency, says feds want CUSMA to stay intact](https://www.bnnbloomberg.ca/tariffs/2026/04/21/leblanc-accuses-us-of-weaponizing-dependency-says-feds-want-cusma-to-stay-intact/)," April 21, 2026.
+
+[^2]: CBC News, "[Carney says trade talks will 'take some time' as U.S. refuses to drop entry fee demand](https://www.cbc.ca/news/politics/carney-trade-take-time-trump-9.7173453)," April 2026.
+
+[^3]: Euronews, "[Oil prices drop over 10% after Iran declares the Strait of Hormuz completely open](https://www.euronews.com/business/2026/04/17/oil-prices-drop-over-10-after-iran-declares-the-strait-of-hormuz-completely-open)," April 17, 2026.
+
+[^4]: CNBC, "[Oil prices jump after tanker attacks as Hormuz ceasefire fractures](https://www.cnbc.com/2026/04/19/oil-price-iran-war-strait-hormuz-tanker.html)," April 19, 2026; CNBC, "[Brent nears $100 amid ceasefire doubts and fresh tanker incidents](https://www.cnbc.com/2026/04/21/oil-price-iran-war-strait-hormuz-tanker-ceasefire-peace-talks.html)," April 21, 2026.
+
+[^5]: Canadian Mortgage Trends / Reuters, "[Loonie's weakening ties to oil prices amplify bets against it](https://www.canadianmortgagetrends.com/2026/04/loonies-weakening-ties-to-oil-prices-amplifies-bets-against-it/)," April 2026.
+
+[^6]: Reuters, "[Canada's Trans Mountain running nearly full on global oil disruptions, CEO says](https://www.marketscreener.com/news/ceraweek-canada-s-trans-mountain-running-nearly-full-on-global-oil-disruptions-ceo-says-ce7e5ed3df80fe2c)," March 25, 2026; Trans Mountain, "[Update: April 2026 Capacity Announcement for the Trans Mountain Pipeline System](https://www.transmountain.com/news/update-april-2026-capacity-announcement-for-the-trans-mountain-pipeline-system)," April 1, 2026; Trans Mountain (Newsfile via Yahoo Finance), "[Trans Mountain Launches Binding Open Season for Firm Service on Existing Pipeline Capacity](https://finance.yahoo.com/sectors/energy/articles/trans-mountain-launches-binding-open-110000539.html)," March 25, 2026; Canada Energy Regulator, "[Market Snapshot: Trans Mountain Expansion eases pipeline constraints and increases exports to overseas markets](https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2025/market-snapshot-trans-mountain-expansion-eases-pipeline-constraints-and-increases-exports-to-overseas-markets.html)," 2025.
+
+[^7]: CBC News, "[In a new CUSMA, should Canada offer the U.S. stronger energy rights?](https://www.cbc.ca/news/business/cusma-energy-proportionality-9.7159330)," April 12, 2026.
+
+[^8]: CBC News, "[Alberta government tables 120-day approvals act for major energy projects](https://www.cbc.ca/news/canada/edmonton/alberta-government-120-day-approvals-major-energy-projects-9.7163707)," April 2026; Alberta.ca, "[Accelerating major project approvals](https://www.alberta.ca/accelerating-major-project-approvals)," April 2026.
+
+[^9]: Bank of Canada, "[Interest rate announcement — March 18, 2026](https://www.bankofcanada.ca/2026/03/fad-press-release-2026-03-18/)," March 18, 2026; Bank of Canada, "[Interest rate announcement and Monetary Policy Report — April 29, 2026](https://www.bankofcanada.ca/2026/04/interest-rate-announcement-and-monetary-policy-report-april-29-2026/)," April 29, 2026; Bank of Canada, "[Canadian Survey of Consumer Expectations—First Quarter of 2026](https://www.bankofcanada.ca/2026/04/canadian-survey-of-consumer-expectations-first-quarter-of-2026/)," April 20, 2026.
+
+[^16]: Prime Minister of Canada, "[Prime Minister Carney announces new Advisory Committee on Canada-U.S. Economic Relations](https://www.pm.gc.ca/en/news/news-releases/2026/04/21/prime-minister-carney-announces-new-advisory-committee-canada-us)," April 21, 2026.
+
+[^10]: CBC News, "[WestJet cuts flight capacity due to jet fuel costs, following Air Canada's lead](https://www.cbc.ca/news/canada/calgary/westjet-flight-capacity-9.7170970)," April 2026; Global News, "[WestJet cuts flight capacity due to jet fuel costs following Air Canada's lead](https://globalnews.ca/news/11809575/westjet-cuts-flight-capacity-due-to-jet-fuel-costs-following-air-canadas-lead/)," April 2026; OpenJaw, "[WestJet announces substantial route cuts as jet fuel crisis continues](https://openjaw.com/newsroom/airline/2026/04/21/westjet-announces-substantial-route-cuts-as-jet-fuel-crisis-continues/)," April 21, 2026.
+
+[^11]: BNN Bloomberg, "[Statistics Canada reports price of fresh vegetables is up 7.8 per cent](https://www.bnnbloomberg.ca/business/economics/2026/04/21/in-its-latest-inflation-report-statistics-canada-reports-price-of-fresh-vegetables-is-up-78-per-cent/)," April 21, 2026.
+
+[^12]: CBC News, "[Food suppliers adding fuel surcharges as grocery prices climb](https://www.cbc.ca/news/business/canada-food-suppliers-fuel-surcharges-grocery-prices-9.7163942)," April 2026; BNN Bloomberg, "[Independent grocers adjusting to fuel surcharges from suppliers](https://www.bnnbloomberg.ca/business/economics/2026/04/19/independent-grocers-adjusting-to-fuel-surcharges-from-suppliers/)," April 19, 2026.
+
+[^13]: CP24, "[High fuel prices driving up shipping costs for northern grocers](https://www.cp24.com/news/canada/2026/04/21/high-fuel-prices-driving-up-shipping-costs-for-northern-grocers/)," April 21, 2026.
+
+[^14]: Nate Glubish, "[Alberta Gets the Least. Here's the Math.](https://nateglubish.substack.com/p/alberta-gets-the-least-heres-the)," Substack, April 2026.
+
+[^15]: CBC News, "[Alberta government tables Bill 18, the Provincial Priorities Act](https://www.cbc.ca/news/canada/edmonton/alberta-provincial-priorities-act-bill-18-federal-funding-9.7133788)," 2025. The Act requires provincial entities including universities and municipalities to seek Cabinet approval before accepting federal grants or entering federal agreements.

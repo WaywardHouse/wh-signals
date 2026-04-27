@@ -1,0 +1,13 @@
+---
+title: "System Signals"
+subtitle: "A weekly digest on what moved beneath the headlines in geography, energy, and economy."
+listing:
+  contents: "*.qmd"
+  type: default
+  sort: "date desc"
+  sort-ui: false
+  filter-ui: false
+  fields: [date, title, subtitle, categories]
+  date-format: "DD MMM YYYY"
+page-layout: full
+---
