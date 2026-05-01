@@ -1,0 +1,268 @@
+---
+title: System Signals No. 5
+subtitle: >
+  OPEC fractures, Shell bets $22 billion, Ottawa borrows $25 billion,
+  and the Mexico problem nobody is talking about
+date: 2026-04-29
+issue: 5
+description: >
+  A weekly systems digest on what moved beneath the headlines in the week
+  ending April 29, 2026: the UAE quits OPEC after sixty years sending Brent
+  to $111, Shell agrees to acquire ARC Resources for $22 billion to anchor
+  LNG Canada's Phase 2 expansion, Ottawa tables $37.5 billion in new spending
+  including a sovereign wealth fund seeded by borrowed money and a $5.9 billion
+  skilled trades program, the Bank of Canada holds at 2.25% as inflation
+  crosses 2.4% and projects a 3% April peak, the U.S. negotiates separately
+  with Mexico raising the prospect of a bilateral track that bypasses Canada,
+  LeBlanc reframes July 1 as a checkpoint rather than a cliff, and Alberta runs
+  two parallel plays — Glubish's national IP argument and Smith's October
+  constitutional referendum.
+categories:
+  - "Economic Geography"
+  - "Energy Policy"
+  - "Trade Policy"
+image: assets/images/signals.webp
+toc: true
+---
+
+> **Published April 29, 2026.** _System Signals_ is a recurring Wayward House briefing for readers who want the week sorted by system rather than by noise. This issue covers the week ending Thursday, April 29, 2026.
+
+---
+
+## This Week's Pattern
+
+Two external actors placed large, irreversible bets on Canadian energy this week. Shell agreed to acquire Calgary-based ARC Resources for **$22 billion** — the largest inbound energy investment in Canada in recent memory — to secure Montney gas supply for LNG Canada's planned Phase 2 expansion. The UAE walked out of OPEC after nearly sixty years, sending Brent to **$111 per barrel** and raising the prospect that other quota-constrained members will follow.
+
+On the same day as the Shell announcement, the federal government tabled its Spring Economic Update — **$37.5 billion in new spending**, headlined by a $5.9 billion skilled trades program and Canada's first sovereign wealth fund.
+
+The fund is seeded with $25 billion in borrowed money.
+
+That is the week's pattern. Not that the architecture is wrong — it is not. A sovereign wealth fund oriented toward Canadian energy, mining, and infrastructure is a reasonable long-term instrument, and a national trades workforce strategy is the necessary plumbing for the infrastructure ambitions it would finance. But Norway, the comparison Prime Minister Carney reached for, started the Government Pension Fund Global by directing actual oil revenues into a surplus-backed account. Canada is opening both vehicles at the precise moment the revenues are peaking — Brent at $111, Trans Mountain running full, a global major writing a nine-figure cheque for Canadian gas — while the mechanism that would connect those revenues to the fund has not been installed.
+
+The confidence is real. The capture is not yet wired to the source.
+
+---
+
+## OPEC's Architecture Breaks
+
+The UAE announced its withdrawal from OPEC and OPEC+ on April 28, effective May 1, ending a membership of nearly sixty years. The announcement was made without prior consultation with Saudi Arabia or any other cartel member.[^1]
+
+The UAE currently produces approximately **4.8 million barrels per day** and has set a target of 5 million bpd by 2027. Leaving the cartel removes the quota constraints that have been capping that ambition. Brent crude rose approximately 3.4% to **$111** on the day of the announcement; WTI crossed $100 per barrel for the first time since early April.
+
+```{ojs}
+//| echo: false
+brentData = [
+  {date: new Date("2026-04-14"), price: 102.0, est: true},
+  {date: new Date("2026-04-15"), price: 101.8, est: true},
+  {date: new Date("2026-04-16"), price: 101.5, est: true},
+  {date: new Date("2026-04-17"), price: 90.38, est: false},
+  {date: new Date("2026-04-20"), price: 95.0,  est: true},
+  {date: new Date("2026-04-21"), price: 98.5,  est: true},
+  {date: new Date("2026-04-22"), price: 101.4, est: false},
+  {date: new Date("2026-04-23"), price: 103.67, est: false},
+  {date: new Date("2026-04-24"), price: 106.01, est: false},
+  {date: new Date("2026-04-27"), price: 106.73, est: false},
+  {date: new Date("2026-04-28"), price: 111.57, est: false},
+]
+```
+
+```{ojs}
+//| echo: false
+Plot.plot({
+  width,
+  height: 240,
+  style: {
+    fontFamily: "'IBM Plex Mono', 'Courier New', monospace",
+    fontSize: 10,
+    background: "transparent",
+    color: "#5a5a56",
+  },
+  marginLeft: 48,
+  marginRight: 16,
+  marginTop: 24,
+  marginBottom: 32,
+  x: {
+    label: null,
+    tickFormat: d => d.toLocaleDateString("en-CA", {month: "short", day: "numeric"}),
+    ticks: 6,
+  },
+  y: {
+    label: "USD/bbl",
+    domain: [86, 114],
+    ticks: [90, 100, 110],
+    tickFormat: d => "$" + d,
+    grid: true,
+  },
+  marks: [
+    Plot.ruleY([100], {stroke: "#9a9a94", strokeWidth: 1, strokeDasharray: "4,3"}),
+    Plot.ruleX(
+      [new Date("2026-04-17"), new Date("2026-04-28")],
+      {stroke: "#d0d0c8", strokeWidth: 1}
+    ),
+    Plot.line(brentData, {x: "date", y: "price", stroke: "#e02020", strokeWidth: 2}),
+    Plot.dot(brentData.filter(d => !d.est), {
+      x: "date", y: "price", fill: "#e02020", r: 3,
+    }),
+    Plot.dot(brentData.filter(d => d.est), {
+      x: "date", y: "price", fill: "none", stroke: "#e02020", strokeWidth: 1.5, r: 2.5,
+    }),
+    Plot.text(
+      [
+        {date: new Date("2026-04-17"), price: 92.2, label: "Hormuz ceasefire"},
+        {date: new Date("2026-04-28"), price: 109.0, label: "UAE exits OPEC"},
+      ],
+      {x: "date", y: "price", text: "label", textAnchor: "start", dx: 5, fill: "#9a9a94", fontSize: 9}
+    ),
+  ],
+})
+```
+
+_Brent crude, USD/bbl, April 14–28 2026. Filled dots are sourced closing prices; open dots estimated from reported price trajectories. Sources: Fortune (Apr 23–27); issues 3–4 source material._
+
+The structural loss to OPEC is greater than the headline production number suggests. The UAE is the cartel's primary swing-capacity player — the member with the most meaningful spare production to deploy in response to supply shocks. Saudi Arabia, which already bears disproportionate responsibility for OPEC's price-management function, now shoulders it alone. Rystad Energy's assessment was direct: losing a member with 4.8 million barrels per day of capacity takes a real tool out of the group's hands.[^1]
+
+The geographic dimension matters for the Hormuz story this digest has tracked since February. The UAE borders the Strait of Hormuz. A UAE operating outside the cartel's political framework has independent incentives on Hormuz transit negotiations — potentially more aligned with U.S. objectives, potentially destabilising to any Saudi-led ceasefire arrangement, but in either case no longer bound by OPEC's collective posture. That decoupling will take weeks to become fully legible.
+
+Kazakhstan and Iraq are now under scrutiny as potential next exits. Both have long operated above their assigned quotas; the UAE's departure removes the credibility cost of doing so openly.[^2] If a second major producer exits, OPEC+'s price-management capacity becomes structurally impaired rather than merely weakened.
+
+For Alberta, this week's oil price movement is straightforwardly positive on royalty revenue — each $10 move in WTI is approximately $400 million per month in provincial receipts at current volumes. The medium-term reading is more complicated. A UAE producing at unconstrained capacity is structurally bearish on price, and the volatility band — already wide after April's $20 round trip — has widened further. ATB's 2.7% GDP forecast for Alberta was built on a WTI assumption well below current spot. That upside is real. It is also harder to bank than it looks.
+
+---
+
+## Shell Bets $22 Billion on Canadian Gas
+
+Shell agreed on April 27 to acquire Calgary-based ARC Resources for **$22 billion** including debt — approximately $13.6 billion in equity plus assumed liabilities — in a cash-and-stock deal expected to close by year end. ARC produces approximately **374,000 barrels of oil equivalent per day** from its Montney shale holdings in northeastern British Columbia and Alberta. The acquisition vaults Shell from the seventh- to the **second-largest Montney producer** in Canada, behind Ovintiv.[^3]
+
+The strategic logic is LNG Canada. Shell operates the Kitimat facility with a 40% stake; the Montney gas ARC produces is the feedstock for LNG Canada's proposed Phase 2 expansion, which would roughly double the facility's capacity and is projected to bring **$33 billion** in additional private-sector investment to Canada. LNG Canada Phase 2 has been referred to the federal Major Projects Office for expedited approval. CIBC World Markets analysts stated this week that Phase 2 sanctioning now has "high likelihood" of occurring in 2026.[^4]
+
+Prime Minister Carney called the acquisition "a vote of confidence in Canada." That framing is not wrong — but it is incomplete. A competing read is that this is primarily a **bet on commodities**, not a bet on Canadian assets specifically: Shell is bulking up production capacity in a high-price environment before peak hydrocarbon demand, and the Montney happened to be the best available package at the right moment. On that reading, the deal would have happened at $111 Brent regardless of CUSMA's status or Ottawa's regulatory posture.
+
+The distinction matters analytically. A country-specific confidence bet implies Shell is pricing in Canadian regulatory stability, LNG Canada's competitive position against rival export corridors, and a durable trade framework. A commodity-cycle bet implies none of those things — it implies that high prices overwhelmed the discount that Canadian political risk would otherwise apply. Both can be partially true. But the policy conclusion is different: if it's a commodity bet, Carney's approvals framework and Canada Strong Fund aren't what closed the deal; $111 Brent did.
+
+What the deal unambiguously signals, regardless of motivation, is that private capital moved faster and with more conviction than public capital this week. Shell moved $22 billion of private equity because it sees recoverable value in identified resource assets with a mapped route to Asian markets. Ottawa moved $25 billion of borrowed public money for similar strategic reasons. These are not equivalent operations. Both are bets on the same underlying thesis. The foundations are different.
+
+LNG Canada is also a different diversification story than Trans Mountain. Issue 3 noted that 83% of Canadians support oil export diversification but that nearly 90% of Alberta's oil still flows to the United States. The Shell-ARC deal is the first major private-capital proof point that the *gas* diversification corridor is moving from policy aspiration to commercial commitment. Two Pacific routes — one for oil (Trans Mountain), one for gas (LNG Canada) — are now simultaneously at, or advancing toward, full operation. The infrastructure Canada spent years arguing about is, piece by piece, becoming real.
+
+---
+
+## The Spring Economic Update
+
+Finance Minister François-Philippe Champagne tabled the **Spring Economic Update 2026** on April 28 — the first fiscal statement since the November 2025 budget and the first under Carney's majority government. The update projects **$37.5 billion in net new spending** and revises the 2025-26 deficit down to **$67 billion**, from the $78 billion estimated in November. Higher-than-expected oil revenues and upward revisions to economic growth provided the windfall; the government allocated it to new programming rather than deficit reduction.[^5]
+
+### Team Canada Strong
+
+The SEU's headline commitment — larger than the sovereign wealth fund and more directly connected to the physical economy — is **Team Canada Strong**: **$5.9 billion over five years** to recruit, train, and hire between **80,000 and 100,000 new Red Seal skilled trades workers by 2030-31**.[^5]
+
+The program is not ornamental. The Shell-ARC deal, LNG Canada Phase 2, Trans Mountain, and the housing targets that animate the rest of the SEU all require skilled tradespeople Canada does not currently have. The federal Major Projects Office has referred 15 projects since September 2025; the training pipeline to staff them has not kept pace with the approval pipeline. Team Canada Strong is the attempt to close that gap.
+
+The mechanics include paid entry-level placements leading into registered apprenticeships, wage subsidies for employers, income top-ups for apprentices in classroom training, one-time certification bonuses for Red Seal completion, expanded online exams and digital logbooks, and expanded union-run training centre capacity. A parallel stream routes apprenticeship training through the Canadian Armed Forces. Labour mobility tax credits are extended to reduce the cost of tradespeople relocating for major projects.[^5]
+
+The analytical point worth holding: a sovereign wealth fund that bets on Canadian infrastructure, and a private sector that bets on Canadian LNG, are both making claims on a workforce that doesn't fully exist yet. Team Canada Strong is the prerequisite for both theses to be realised. Whether $5.9 billion over five years is sufficient to close a gap of 80,000–100,000 workers at the pace the project pipeline demands is a question the update does not answer.
+
+### The Norway Problem
+
+Also announced in the SEU: the **Canada Strong Fund**, Canada's first national sovereign wealth fund, with an initial federal endowment of **$25 billion** to be deployed over three years. The fund will invest in clean and conventional energy, critical minerals, agriculture, and infrastructure, operating as an arm's-length entity reporting to the Minister of Finance. A retail investment product will allow individual Canadians to purchase units and share in returns.[^6]
+
+Carney explicitly invoked Norway's Government Pension Fund Global — now exceeding $2 trillion in assets — as the model. The comparison is instructive, but not in the way the announcement intends.
+
+Norway's fund was seeded by fiscal surpluses from North Sea oil revenues, operates under a strict self-imposed cap on annual government withdrawals, and invests almost entirely in international equities, bonds, and real estate to deliberately diversify Norway's economy *away* from oil dependence. It is a mechanism for converting finite resource wealth into perpetual diversified financial wealth. The Norwegian government was running surpluses when the fund was established. The spending cap prevents political raiding.
+
+The Canada Strong Fund is financed against a **$67 billion federal deficit**. Higher-than-expected revenues arrived this year — oil at $111, Trans Mountain full — and the government used the fiscal dividend to fund new programming, not to seed the SWF from resource revenue. Globe and Mail reporting indicates the government plans to grow the fund partly by recycling proceeds from federal assets — airports, real estate, Crown corporation stakes.[^7] There is no resource revenue seeding mechanism in the SEU announcement.
+
+The timing is an analytical point, not a rhetorical one. Brent was at $111 the day the Canada Strong Fund was announced. Trans Mountain posted its first full-utilisation month in April. Shell wrote a $22 billion cheque for Canadian gas. The revenues exist. They are flowing to Alberta royalties, federal corporate taxes, and ARC shareholders. They are not flowing into the fund. Whether a future mechanism connects those revenues to the Canada Strong Fund's capitalisation is a question the Spring Economic Update does not answer — and the answer matters more than the launch.
+
+The critique from The Hub — "a deficit-financed subsidy in patriotic clothing" — overstates the case, but identifies the real structural gap.[^8] A fund built on debt is not a wealth fund; it is a development finance institution under a different name. Development finance institutions can do useful work. They are not the same instrument as a fund that converts windfall resource revenues into durable intergenerational assets.
+
+---
+
+## The Bank Holds
+
+The Bank of Canada held its policy rate at **2.25%** on April 29, as universally expected. All 41 economists in a Reuters pre-decision poll anticipated no change; markets had priced a 93% probability of a hold. The rate has been at 2.25% since October 2025.[^9]
+
+The analytical substance is the Monetary Policy Report, not the rate announcement.
+
+The April MPR represents a significant structural shift from the January baseline. In January, the Bank's base case assumed GDP growth of **1.1% in 2026** with inflation near target. The April MPR revises the growth forecast upward to **1.2% in 2026, rising to 1.6% in 2027 and 1.7% in 2028** — but the forces pulling that number have changed. The April base case explicitly assumes **US tariffs remain unchanged at current levels** — not that CUSMA is preserved, but that tariff pressure persists and the economy adjusts around it. Oil prices are assumed to decline from $90 per barrel in Q2 2026 to $75 by mid-2027.[^9]
+
+On inflation, the MPR is more pointed than the hold decision suggests. CPI climbed from 1.8% in February to **2.4% in March** on sharply higher gasoline prices driven by the Middle East war. The Bank projects **inflation to peak around 3% in April** before returning to the 2% target in early 2027, conditional on oil prices declining as assumed. Governor Macklem was explicit: if energy prices stay elevated or broaden into other goods and services, the Bank will tighten — consecutive rate increases are named as a possibility in the elevated oil scenario.[^9]
+
+The Bank's growth forecast remaining "little changed" from January conceals a compositional shift. Consumer and government spending are holding up GDP; business investment and exports are being suppressed by tariffs and trade uncertainty. The labour market remains soft, with unemployment in the **6.5–7% range** and job losses concentrated in tariff-exposed sectors. Potential output growth is expected to slow in 2026 as US protectionism dampens productivity growth, recovering in 2027 as AI investment improves efficiency and the economy adjusts to the new trade regime.
+
+Holding the rate while inflation is above target and moving toward 3% is a statement that the Bank reads the growth risk — in an economy absorbing tariff costs, soft labour markets, and a fracturing oil cartel — as outweighing the near-term inflation risk from energy prices. Whether that judgment holds through the summer depends on two variables the Bank cannot control: where CUSMA ends up, and whether the Middle East war extends the oil shock.
+
+---
+
+## The Checkpoint, Not the Cliff — And the Mexico Problem
+
+On April 27, Trade Minister Dominic LeBlanc chaired the **inaugural meeting** of the Advisory Committee on Canada–U.S. Economic Relations in Ottawa. The 24-member group — including former Conservative leader Erin O'Toole and former Quebec premier Jean Charest — reviewed Canada's priorities for the July 1 CUSMA review. LeBlanc also announced the addition of Eliot Pence, CEO of defence technology firm Dominion Dynamics, as a new committee member — a signal that the committee's remit is being extended to include defence-industrial supply chain questions alongside trade.[^10]
+
+The most consequential development from LeBlanc's week was a reframing of the July 1 date itself. Following signals from U.S. Trade Representative Jamieson Greer that not all issues will be resolved by the formal review opening, LeBlanc and Chief Negotiator Janice Charette have now described July 1 as a **"checkpoint" rather than a "cliff."** That is a meaningful shift: the formal review opening is a procedural milestone, not a deadline by which Canada must show concessions or risk a worse outcome. The government is managing expectations for a negotiation that will extend well into the second half of 2026.
+
+LeBlanc held firm on two substantive positions. Dairy supply management concessions are "off the table." Significant progress on existing sectoral tariffs — steel, aluminum, autos — is a precondition for engaging the broader CUSMA review. He explicitly rejected the "entry fee" framing while simultaneously asserting that productive conversations with Howard Lutnick and Jamieson Greer are ongoing.[^10]
+
+The gap between "the U.S. cannot dictate terms" and "we are having productive conversations" is the operative space of this negotiation. But there is a structural complication this week that the checkpoint framing does not address: **the U.S. has been negotiating with Mexico on a bilateral track, leaving Canada to the side.**[^11]
+
+Greer told lawmakers this week that "there are two countries that have retaliated economically against the United States in the past year: the People's Republic of China and Canada." Mexico is not in that framing. U.S.-Mexico bilateral meetings have proceeded separately, with no corresponding Canadian track. The risk this creates is not that Canada is shut out of CUSMA — the trilateral architecture makes that structurally difficult — but that a U.S.-Mexico deal on the issues Washington most cares about (supply chain rules of origin, Chinese content, automotive compliance) could be presented to Canada as a fait accompli when formal review opens. Canada would be negotiating the final terms of an agreement whose core architecture has already been settled between the other two parties.
+
+Jefferies, in a note earlier this month, put the odds of a clean CUSMA renewal at just 10%, with a 75% probability that the agreement slides into a decade of annual reviews — a prolonged limbo that suppresses business and investor conviction regardless of the nominal tariff rate.[^11]
+
+The structural stakes of this ambiguity are not abstract. The Bank of Canada's April base case assumes tariffs persist at current levels. Shell's $22 billion bet assumes Canadian LNG reaches Asian markets on stable trade terms. The Canada Strong Fund's domestic investment thesis assumes durable trade architecture. All three are resting on a negotiation that has, as of April 29, not moved in either direction — and that may now be moving in a direction that routes around Canada.
+
+---
+
+## Alberta's Two-Track Week
+
+**Glubish's national pivot.** Issue 4 covered Glubish's capital-flows argument: Ottawa systematically underfunds Alberta relative to Ontario. This week's Substack shifts to a national frame — **Canada's R&D and IP gaps are structural, and worse than most Canadians understand.**[^12]
+
+The numbers are blunt. Canada ranks **21st of 34 OECD economies** on research intensity — last among G7 nations. Business enterprise R&D sits at **0.86% of GDP** against the OECD average of **1.99%**. Most pointed: **45% of US patents listing Canadian inventors are immediately assigned to foreign firms** at the time of filing. Canada generates the discovery; the value accrues abroad. Only **1.1% of Canadian businesses file patents**, against an OECD average of 5.9%. Canadian labour productivity runs roughly 30% below the United States. Glubish promotes Alberta's IP office — which requires companies receiving provincial innovation funding to have credible domestic commercialisation plans — as a model for federal replication.
+
+The two-week pattern is worth naming. Week four: Ottawa underfunds Alberta. Week five: Canada as a whole has an IP capture problem. This is a deliberate pivot from a parochial to a national frame, building political credibility for Alberta's innovation positions ahead of any CUSMA negotiations that touch digital and technology policy. It is also an indirect structural critique of the Canada Strong Fund: a fund that takes equity stakes in Canadian projects without requiring IP retention as a condition of investment is, in the Glubish framing, repeating the same mistake at scale.
+
+**Smith's constitutional bet.** Premier Smith launched a government-funded information campaign on April 23 for a nine-question referendum scheduled for **October 19, 2026**, under the banner "Stand for a sovereign Alberta within a united Canada." Five questions concern immigration and social services. The four constitutional questions carry the systems weight.[^13]
+
+The load-bearing question is the fourth: should provincial laws take **priority over federal laws when in conflict in shared jurisdiction areas**? "Shared jurisdiction" in Canadian constitutional law encompasses natural resources, agriculture, and several infrastructure categories. A successful referendum creates a democratic mandate for a constitutional position that would materially affect the regulatory architecture governing pipeline approvals, environmental assessment, and Indigenous consultation — the same architecture Bill 30's 120-day clock is attempting to route around at the provincial level.
+
+The other three constitutional questions — provincial selection of King's Bench and Appeal Court justices, Senate abolition, and provinces opting out of federal programs while retaining the associated funding — each chip away at federal institutional capacity from a different direction. None are separatism questions. All are jurisdiction questions. Smith is using the referendum mechanism to establish a provincial mandate for constitutional positions she cannot achieve unilaterally. Whether or not the referendum passes — NDP Leader Naheed Nenshi has called it "a gigantic waste of taxpayer money" — the asking creates a political record that runs through the CUSMA review, through the Canada Strong Fund's deployment decisions, and through the federal Major Projects Office process that Shell's LNG Canada Phase 2 expansion depends on.
+
+That record is not accidental.
+
+---
+
+## Why These Belong Together
+
+Seven stories. One structural question: *who captures the value from Canadian resources, and on whose terms, and for how long?*
+
+The UAE's exit from OPEC sends oil to $111 and fractures the cartel architecture that has managed global prices since 1967 — expanding Alberta's revenue upside while widening the volatility band that makes it impossible to bank. Shell writes $22 billion for Montney gas, making the Pacific LNG corridor a commercial reality rather than a policy ambition — and does it with private capital at the exact moment Ottawa is borrowing to assemble a fund for the same purpose. The Spring Economic Update announces $37.5 billion in new spending: a sovereign wealth fund on a debt foundation, and a $5.9 billion trades program that is the prerequisite for everything else in the portfolio — without the workers, neither the SWF investments nor the LNG expansion can be built at pace. The Bank of Canada holds at 2.25%, protecting a forecast premised not on CUSMA preservation but on tariff persistence and oil price moderation, with inflation already on its way to 3%. LeBlanc reframes July 1 as a checkpoint — the correct description, and one that means every institution making bets on Canadian energy and trade stability is now pricing in a negotiation with no defined endpoint, while the U.S. quietly moves its most important bilateral conversations to a Mexico track. And Alberta runs two tracks simultaneously: Glubish building a national IP argument that critiques Ottawa's innovation spending architecture, Smith building a constitutional record that, if it becomes law, would shift the jurisdictional balance over the resources every other story in this digest is about.
+
+These are not separate pressures. They are the same pressure — the question of who designs the systems through which Canadian resource wealth flows — being asked at seven different institutional levels at once: the global cartel, the private capital market, the federal spending authority, the central bank, the trade negotiating table, the bilateral track that bypasses Canada, and the provincial constitutional process.
+
+The system is not breaking. But the architecture is being renegotiated from multiple directions simultaneously. The outcome of that renegotiation will not be visible in a single week's headlines. It will be visible, eventually, in who owns the IP, who sits on the courts, who trains the workers, and whether the Norway comparison ever becomes accurate.
+
+---
+
+## Sources This Week
+
+[^1]: Al Jazeera, "[UAE leaves OPEC and OPEC+](https://www.aljazeera.com/news/2026/4/28/uae-leaves-opec-and-opec)," April 28, 2026; CNBC, "[UAE Energy Minister explains decision to leave OPEC as Hormuz crisis deepens](https://www.cnbc.com/video/2026/04/28/uae-minister-explains-decision-to-leave-opec-as-hormuz-crisis-deepens.html)," April 28, 2026; CNBC, "[United Arab Emirates to leave OPEC May 1, energy chief says still committed to oil price stability](https://www.cnbc.com/2026/04/28/uae-opec-oil-iran.html)," April 28, 2026.
+
+[^2]: investingLive, "[UAE exit from OPEC raises fears Kazakhstan and Iraq could be next to leave](https://www.investinglive.com/)," April 2026; The Deep Dive, "[UAE's OPEC exit could mean more to follow… and remove the cap](https://thedeepdive.ca/)," April 2026.
+
+[^3]: Bloomberg, "[Shell Agrees to Buy Canada's Arc Resources for $13.6 Billion](https://www.bloomberg.com/news/articles/2026-04-27/shell-agrees-to-buy-canada-s-arc-resources-for-13-6-billion)," April 27, 2026; CNBC, "[Oil giant Shell to buy Canada's ARC Resources for $16.4 billion in push to boost output](https://www.cnbc.com/2026/04/27/shell-arc-resources-acquisition-16-billion-energy-oil.html)," April 27, 2026.
+
+[^4]: BNN Bloomberg, "[Blockbuster $22B Shell-ARC deal bodes well for expansion to LNG Canada, experts say](https://www.bnnbloomberg.ca/business/2026/04/28/blockbuster-22b-shell-arc-deal-bodes-well-for-expansion-to-lng-canada-experts-say/)," April 28, 2026.
+
+[^5]: Government of Canada, "[Spring Economic Update 2026: Key Measures](https://www.canada.ca/en/department-finance/news/2026/04/spring-economic-update-2026-key-measures.html)," April 28, 2026; CTV News / CP24, "[7 takeaways for Canadians from PM Carney's spring economic update](https://www.cp24.com/news/canada/2026/04/28/7-takeaways-for-canadians-from-pm-carneys-spring-economic-update/)," April 28, 2026; CBC News, "[7 key takeaways from the Liberal government's spring economic snapshot](https://www.cbc.ca/news/politics/takeaways-from-spring-economic-update-carney-9.7180305)," April 28, 2026.
+
+[^6]: Prime Minister of Canada, "[Prime Minister Carney announces the Canada Strong Fund – Canada's first sovereign wealth fund](https://www.pm.gc.ca/en/news/news-releases/2026/04/27/prime-minister-carney-announces-canada-strong-fund-canadas-first)," April 27, 2026; CTV News, "[PM Carney announces Canada's first national sovereign wealth fund](https://www.ctvnews.ca/politics/article/pm-carney-announces-canadas-first-national-sovereign-wealth-fund/)," April 27, 2026.
+
+[^7]: Globe and Mail, "[Liberals plan to grow sovereign wealth fund by recycling money from airports, other federal assets](https://www.theglobeandmail.com/business/article-liberals-sovereign-wealth-fund-spring-economic-update-airports-retail/)," April 2026; Globe and Mail, "[A sovereign wealth fund with more questions than answers](https://www.theglobeandmail.com/business/commentary/article-a-sovereign-wealth-fund-with-more-questions-than-answers/)," April 2026; Policy Magazine, "[The 2026 Spring Economic Update: Fiscal Dividends Get Allocated](https://www.policymagazine.ca/the-2026-spring-economic-update-fiscal-dividends-get-allocated/)," April 2026.
+
+[^8]: The Hub, "[The Canada Growth Fund is not a Sovereign Wealth Fund—It's a deficit-financed subsidy in patriotic clothing](https://thehub.ca/2026/04/28/the-canada-growth-fund-is-not-a-sovereign-wealth-fund-its-a-deficit-financed-subsidy-in-patriotic-clothing/)," April 28, 2026.
+
+[^9]: Bank of Canada, "[Interest Rate Announcement — April 29, 2026](https://www.bankofcanada.ca/2026/04/fad-press-release-2026-04-29/)," April 29, 2026; Bank of Canada, "[Monetary Policy Report — April 2026](https://www.bankofcanada.ca/publications/mpr/mpr-2026-04-29/)," April 29, 2026; Bank of Canada, "[MPR Press Conference Opening Statement](https://www.bankofcanada.ca/2026/04/opening-statement-2026-04-29/)," April 29, 2026.
+
+[^10]: Government of Canada / Global Affairs Canada, "[Minister LeBlanc chairs first meeting of the new Advisory Committee on Canada–U.S. Economic Relations](https://www.canada.ca/en/global-affairs/news/2026/04/minister-leblanc-chairs-first-meeting-of-the-new-advisory-committee-on-canada-us-economic-relations.html)," April 27, 2026; CTV News, "[LeBlanc accuses U.S. of weaponizing dependency, says feds want CUSMA to stay intact](https://www.ctvnews.ca/politics/article/leblanc-accuses-us-of-weaponizing-dependency-says-feds-want-cusma-to-stay-intact/)," April 2026; BNN Bloomberg, "[U.S. trade rep says unlikely CUSMA review deadline will be met](https://www.bnnbloomberg.ca/u-s-trade-rep-says-unlikely-cusma-review-deadline-will-be-met-1.2056024)," April 2026.
+
+[^11]: Axios, "[North American trade deal at risk as U.S., Canada exchange barbs](https://www.axios.com/2026/04/29/trump-trade-tariffs-canada)," April 29, 2026; Jefferies research note cited therein.
+
+[^12]: Nate Glubish, "[Canada's R&D Gap Is Bad. Our IP Gap Is Worse.](https://nateglubish.substack.com/p/canadas-r-and-d-gap-is-bad-our-ip)," Substack, April 2026.
+
+[^13]: Wikipedia, "[2026 Alberta referendum](https://en.wikipedia.org/wiki/2026_Alberta_referendum)"; CBC News, "[Alberta Premier Danielle Smith announces fall referendum on immigration, constitutional questions](http://www.cbc.ca/news/canada/edmonton/alberta-danielle-smith-fall-referendum-9.7098568)," 2026; CTV News, "[Alberta Premier Danielle Smith launches referendum website ahead of fall vote](https://www.ctvnews.ca/video/2026/04/23/alberta-premier-danielle-smith-launches-referendum-website-ahead-of-fall-vote/)," April 23, 2026.
