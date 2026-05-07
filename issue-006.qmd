@@ -1,0 +1,145 @@
+---
+title: System Signals No. 6
+subtitle: >
+  The Hormuz endgame, the Bank's hike signal,
+  and a pipeline with no builder
+date: 2026-05-07
+issue: 6
+description: >
+  A weekly systems digest on what moved beneath the headlines in the week
+  ending May 7, 2026: Trump launches and then pauses Operation Project Freedom
+  as U.S.-Iran peace talks produce a framework deal, sending Brent on a
+  $14 round trip from $111 to $114 and back to $100; Governor Macklem tells
+  Parliament that consecutive rate hikes are possible if energy inflation
+  spreads; Carney calls a new Alberta pipeline "more likely than not" while
+  no company has stepped forward to build it; CUSMA's ratification window
+  begins to close around the negotiation's expanding timeline; and 302,000
+  Albertans sign a petition to put independence on the October 19 ballot
+  in the same week their province signed a pipeline cooperation deal with
+  Ottawa.
+categories:
+  - "Economic Geography"
+  - "Energy Policy"
+  - "Trade Policy"
+  - "Monetary Policy"
+image: assets/images/signals.webp
+toc: true
+---
+
+> **Published May 7, 2026.** _System Signals_ is a recurring Wayward House briefing for readers who want the week sorted by system rather than by noise. This issue covers the week ending Thursday, May 7, 2026.
+
+---
+
+## This Week's Pattern
+
+The Hormuz disruption has been the structural backdrop of every issue of this digest since February. This week, for the first time, it acquired a visible exit path — and then immediately demonstrated how fragile that path is.
+
+A one-page, 14-point memorandum of understanding, brokered through Pakistan, is on the table between Washington and Tehran. The deal would see Iran ease its grip on the Strait and the U.S. lift its naval blockade over thirty days. Oil fell eight percent on the news and is sitting just above $100 today as the U.S. waits for Iran's formal response.
+
+That waiting is the week's pattern. Not resolution, but the first credible possibility of it — and the cascading implications for every Canadian policy bet built on the assumption that $100-plus oil is the durable planning environment.
+
+The Bank of Canada, in parliamentary testimony this week, explicitly flagged the possibility of **consecutive rate hikes** if energy inflation spreads. The Prime Minister said a new Alberta pipeline is "more likely than not." The Spring Economic Update's oil price assumption was $73 per barrel. Actual WTI this week traded between $94 and $106. If the Hormuz deal is signed, those gaps start closing — in ways that complicate several policy architectures built for a different price world.
+
+---
+
+## Project Freedom, Paused
+
+The week's oil price trajectory tells the structural story better than any individual headline.
+
+Issue 5 closed with Brent at **$111** on the UAE's OPEC exit. On Monday May 4, President Trump announced Operation Project Freedom — a U.S. military escort operation for merchant ships transiting the Strait of Hormuz. The announcement was framed as a direct attempt to break Tehran's chokehold on the waterway. Brent surged to **$114**, WTI to **$106**.[^1]
+
+The operation lasted less than twenty-four hours. On Tuesday May 5, Trump posted on Truth Social that Project Freedom was "temporarily paused" as "Great Progress has been made toward a Complete and Final Agreement." Reporting subsequently indicated that the pause was at least partly triggered by Saudi Arabia's refusal to grant the U.S. use of its airspace — a significant alignment signal from Riyadh in the week following the UAE's OPEC exit.[^2] A Gulf bloc that had been the implicit price-management backstop to the Hormuz disruption is now visibly fragmenting at the precise moment Washington tried to force a military solution.
+
+On Wednesday May 6, the framework terms leaked. A one-page MOU, brokered through Pakistan, would see Iran commit to a nuclear enrichment moratorium and ease its Hormuz grip; the U.S. would lift its naval blockade of Iranian ports over thirty days and release frozen assets. Oil fell **nearly eight percent**. Brent closed at $101.27, WTI at $95.08.[^1]
+
+As of today, the U.S. is waiting for Iran's formal response. Brent is at $100.06; WTI at $94.81.[^1]
+
+The structural reading for Canada is not straightforward. The Spring Economic Update — tabled April 28, one week ago — projects a **$67 billion** deficit against a WTI oil price assumption of **US$73 per barrel**.[^3] Nominal GDP was revised upward by $46 billion partly on higher energy prices. The WTI range this week ran from $94 to $106 — a $20-to-$33 beat on the budget assumption. If a Hormuz deal is signed and the Strait gradually reopens over thirty days, WTI has a plausible path back toward that $73 baseline. Alberta's royalty beat normalises. Trans Mountain's Asian demand premium — built on Hormuz scarcity — softens. The Canada Strong Fund, announced at $111 Brent and debt-financed rather than resource-revenue-backed, becomes more rather than less anomalous.
+
+The Iran deal is not signed. It may not be. But the possibility of it — credible, structured, brokered — is a different world from the one every issue of this digest has been operating in.
+
+---
+
+## The Bank Shifts
+
+Governor Tiff Macklem appeared before the House of Commons Standing Committee on Finance on May 4 and the Senate Standing Committee on Banking, Commerce and the Economy on May 6. The statements were the most significant policy signal of the week, and they went in a direction the April 29 hold announcement did not fully prepare for.
+
+The new language is specific: "if oil prices continue to increase, and particularly if they remain elevated, the risk that higher energy prices become ongoing generalized inflation increases. If this starts to happen, there may be a need for **consecutive increases in the policy rate**."[^4]
+
+That is a material escalation. The April 29 MPR held the rate and published a base case premised on stable oil prices. The May testimony explicitly names rate hikes — plural, consecutive — as a live possibility. The Bank also kept the cut option open: significant new U.S. tariffs on Canada could still warrant further reductions. "Monetary policy may need to be nimble" is not the language of a central bank confident in its base case.
+
+The numbers behind the signal: CPI inflation rose from 1.8% in February to 2.4% in March, and the Bank projects it peaked around **3% in April** before easing back to the 2% target by early 2027.[^4] The Bank says it currently sees "little evidence that higher oil prices have fed through to other goods and services prices" — but that qualifier defines exactly the threshold it is watching. If gasoline and food price pressures begin spreading to services and wages, the hold becomes untenable.
+
+The bidirectional problem is genuine. The Bank is now in a position where the next move could be a hike or a cut depending on whether an Iranian diplomat in Islamabad accepts a one-page document. Canada has no seat at that table. The institution responsible for managing Canadian price stability is calibrating its policy path around a geopolitical negotiation it cannot influence.
+
+This week, with Brent falling back toward $100 on peace-deal optimism, the hike scenario looks less urgent than it did Monday morning. That can reverse quickly. The Bank said as much: "unusually elevated" uncertainty remains the framing, and the April 3% inflation print — if it turns out to be the peak — will take months to confirm.
+
+---
+
+## The Pipeline Is "More Likely Than Not"
+
+On May 1, Prime Minister Carney told The Canadian Press in his first extended sit-down interview since taking office that a new bitumen pipeline from Alberta to Canada's Pacific coast is "more likely than not." He was careful with the language — "more likely than not, which means more probable than possible. But none of that says it's certain. Still a lot of work to be done."[^5]
+
+It is the strongest language Carney has used on the project. The MOU between Ottawa and Alberta — signed in November 2025 — requires Alberta to submit a pipeline proposal to the federal government by **July 1, 2026**, the same date as CUSMA's formal review opening. The project would carry 300,000 to 400,000 barrels per day to Pacific tidewater, with either Kitimat or Prince Rupert as the export point. Ottawa has committed to enabling "needed adjustments" to the Oil Tanker Moratorium Act if the project clears national interest review.[^5]
+
+Conservative Leader Pierre Poilievre responded that Carney has "wasted an entire year" deliberating. The criticism is politically pointed. The structural gap it gestures toward is different from what Poilievre intended: the problem is not that Carney hasn't made up his mind. The problem is that no energy company has stepped forward to build the pipeline. "More likely than not" is government confidence language. It is not a final investment decision. The Trans Mountain expansion reached sanction years before it was declared probable — it reached it when capital committed. The Northwest Coast corridor needs a proponent, not a probability assessment.
+
+The opposition to the project remains substantial. The Assembly of First Nations has called for the MOU to be scrapped. British Columbia First Nations chiefs have pledged to use "every tool available" to stop it. Premier David Eby has not endorsed the project. These are not procedural obstacles; they are the conditions under which any application filed by July 1 would enter regulatory review.[^5]
+
+The same week Carney upgraded the pipeline's probability, Alberta moved in a different energy direction. The province is proceeding with a **$14 per panel eco-fee** on new solar installations beginning October 2026 — applying to both utility-scale projects and rooftop panels — ostensibly to fund recycling, in a province where no large-scale solar panel recycling programme currently exists.[^6] The fee sits alongside Alberta's suspension from Canada's Clean Electricity Regulations, secured as part of the pipeline MOU. The province is simultaneously building a case for resource corridor legitimacy while imposing friction on residential renewable adoption. Both are coherent UCP policy positions. Placed side by side, they are a reasonable description of where Alberta's energy politics actually live: not anti-pipeline and not pro-renewables, but committed to a hierarchy where oil infrastructure leads and everything else follows.
+
+---
+
+## CUSMA's Contracting Window
+
+The formal CUSMA review window opens July 1 — eight weeks away. The negotiations are expected to extend into 2027. The problem identified in analysis this week is that these two timelines are in structural conflict.[^7]
+
+U.S. Congressional mid-term elections are in November 2026. Any agreement requiring Senate ratification has a narrowing window before the election season locks down major legislative action — historically, Congress resists granting presidents significant trade victories in campaign season. If negotiations run nine to ten months from July 1 — the estimate Ambassador Hoekstra called "painstaking" — the ratification window will have closed before the deal is complete.
+
+The Mexico asymmetry sharpens this. U.S.-Mexico CUSMA review talks are now formally underway, with a Mexican trade delegation conducting a three-city Canadian tour this week for bilateral consultations.[^7] Canada is in a "waiting game" by the characterisation of The Hill Times — no equivalent formal start date for Canada-U.S. talks, while its CUSMA partner has a running clock. The two countries that share the most integrated supply chains are approaching the same review on different schedules.
+
+The January BoC MPR base case assumed CUSMA preservation at July 1. That assumption was already under stress in issue 5. The contracting ratification window adds a structural dimension: even a negotiation that concludes successfully may not produce a ratified agreement before a combination of mid-terms and a new Congress makes the political environment inhospitable. The "checkpoint" framing LeBlanc has settled on is accurate as far as it goes. It does not account for the checkpoint occurring inside a closing ratification window that neither party appears to be treating as the binding constraint.
+
+---
+
+## At the Edges
+
+The economic and energy stories above share a common frame: federal-provincial and Canada-U.S. relations understood as cooperative, adversarial, or somewhere between. What sits at the edges of that frame, and is worth noting plainly, is that the political ground beneath several of these stories is less stable than the institutional language suggests.
+
+On May 4-6, the organizers of the Alberta independence movement formally submitted **302,000 signatures** to Elections Alberta — well above the 178,000 required to trigger consideration of a citizen-initiated referendum question.[^8] If the signatures clear verification and legal challenges (Indigenous groups have filed objections citing treaty rights), an independence question could appear on the **October 19 ballot** alongside Smith's nine constitutional and immigration questions. Smith has said she does not support independence but committed to holding the vote if the threshold was met. That commitment now has a threshold behind it.
+
+This is the same week Carney called the Alberta pipeline "more likely than not" — the same week the federal and provincial governments are pointing toward cooperative energy infrastructure. The formal governmental relationship and the citizen-level political relationship are running in opposite directions at the same time: a pipeline MOU signed in November, a separatist petition submitted in May.
+
+The two are not contradictions. They are the same frustration — over capital flows, jurisdictional control, constitutional recognition — expressed through different channels by different actors. The economic cooperation between Ottawa and Edmonton is real. So is the 302,000-signature question about whether Alberta wants to remain in the country those agreements are being signed in. Both things are simultaneously true, and any analysis of the cooperative economic story that ignores the political headwind at its edges is incomplete.
+
+A challenge was also filed this week over the government-funded content on Alberta's referendum information website, with complainants alleging that the provincial government's official explainer is not neutral but advocates for specific outcomes.[^8] Elections Alberta is reviewing.
+
+---
+
+## Why These Belong Together
+
+Five stories, one structural condition: every Canadian policy bet made in the last six weeks was priced on an oil environment that may be changing.
+
+The Hormuz endgame — still unresolved as of today but closer to resolution than at any point since February — would unwind the scarcity premium built into Alberta's royalty projections, Trans Mountain's Asian demand, the BoC's inflation concerns, and the nominal GDP boost the Spring Economic Update treated as a fiscal dividend. The Bank of Canada, reading that same contingency in real time, shifted its public language from "hold" to "consecutive hikes may be necessary" in the same week oil fell eight percent on peace-deal news — demonstrating exactly the bidirectional bind it described. Carney upgraded the pipeline's probability in a week when the price signal that makes Pacific export corridors commercially attractive may be weakening; the project still has no builder and faces organized legal opposition from the communities whose land it would cross. CUSMA's formal review opens in eight weeks inside a ratification window that is already contracting around a negotiation neither party expects to finish before mid-terms. And at the edges of the cooperative federal-provincial story, 302,000 Albertans submitted enough signatures this week to put independence on the same October ballot where their government is asking for constitutional supremacy in shared jurisdictions.
+
+The system is not breaking. But the assumptions underneath it — stable oil above $100, a clean CUSMA checkpoint at July 1, an Alberta that wants to be in Canada on manageable terms — are all, simultaneously, under active revision.
+
+---
+
+## Sources This Week
+
+[^1]: CNBC, "[Oil prices today: Trump, Iran, Strait of Hormuz, US, crude, Brent](https://www.cnbc.com/2026/05/07/oil-prices-today-trump-iran-strait-of-hormuz-us-crude-brent-.html)," May 7, 2026; CNBC, "[Oil prices jump after Iran attacks UAE as U.S. tries to open Strait of Hormuz](https://www.cnbc.com/2026/05/04/oil-prices-today-wti-brent-trump-iran-us-hormuz.html)," May 4, 2026; CNBC, "[Oil prices fall more than 7% as U.S. and Iran appear close to deal to end war](https://www.cnbc.com/2026/05/06/oil-prices-trump-pauses-strait-of-hormuz-escort-effort.html)," May 6, 2026.
+
+[^2]: NBC News, "[Trump pauses 'Project Freedom' in Strait of Hormuz, citing progress on an Iran deal](https://www.nbcnews.com/world/iran/us-iran-war-trump-open-hormuz-attacks-ships-ceasefire-rcna343604)," May 5, 2026; Times of Israel, "[Trump reportedly paused Hormuz op after Saudis denied use of airspace; US awaits Iran deal response](https://www.timesofisrael.com/trump-reportedly-paused-hormuz-operation-after-saudi-arabia-denied-use-of-its-airspace/)," May 2026; Wikipedia, "[Operation Project Freedom](https://en.wikipedia.org/wiki/Operation_Project_Freedom)," 2026.
+
+[^3]: Government of Canada, "[Economic and Fiscal Overview — Spring Economic Update 2026](https://budget.canada.ca/update-miseajour/2026/report-rapport/overview-apercu-en.html)," April 28, 2026; The Hub, "[Canada's $66.9 billion deficit — Breaking down the big numbers in Carney's fear-fuelled spring economic update](https://thehub.ca/2026/05/01/canadas-66-9-billion-deficit-breaking-down-the-big-numbers-in-carneys-fear-fuelled-spring-economic-update/)," May 1, 2026.
+
+[^4]: Bank of Canada, "[Opening Statement before the House of Commons Standing Committee on Finance](https://www.bankofcanada.ca/2026/05/opening-statement-house-commons-standing-committee-finance-2026-05-04/)," May 4, 2026; Bank of Canada, "[Opening Statement before the Senate Standing Committee on Banking, Commerce and the Economy](https://www.bankofcanada.ca/2026/05/opening-statement-senate-standing-committee-banking-commerce-economy-2026-05-06/)," May 6, 2026; Canadian Mortgage Trends, "[Bank of Canada warns rates could rise if inflation spreads beyond energy costs](https://www.canadianmortgagetrends.com/2026/05/bank-of-canada-warns-rates-could-rise-if-inflation-spreads-beyond-energy-costs/)," May 2026.
+
+[^5]: Global News, "[Alberta oil pipeline 'more likely than not': Prime Minister Carney](https://globalnews.ca/news/11826838/alberta-oil-pipeline-mark-carney/)," May 1, 2026; CBC News, "[Here's what to know about Canada's landmark energy agreement with Alberta](https://www.cbc.ca/news/politics/ottawa-alberta-energy-agreement-pipeline-9.6994715)," 2025; Global News, "[Ottawa and Alberta have struck a pipeline deal. What does it include?](https://globalnews.ca/news/11546603/ottawa-alberta-pipeline-deal-what-is-in-it/)," 2025.
+
+[^6]: CBC News, "[Poilievre argues Carney has 'wasted an entire year' on possible Alberta pipeline](https://www.cbc.ca/news/politics/poilievre-carney-alberta-pipeline-energy-trump-united-states-9.7185996)," May 2026; Canada's National Observer, "[Alberta still doesn't want to stick it where the sun shines](https://www.nationalobserver.com/2026/05/04/opinion/alberta-solar-panels-fee-renewables-smith)," May 4, 2026; Canada's National Observer, "[Alberta fires latest salvos in 'war' on renewable energy](https://www.nationalobserver.com/2026/04/29/analysis/alberta-renewable-measures-analysis)," April 29, 2026.
+
+[^7]: The Hub, "[The CUSMA clock is ticking — and Canada's diplomatic calendar doesn't match](https://thehub.ca/2026/05/04/the-cusma-clock-is-ticking-and-canadas-diplomatic-calendar-doesnt-match/)," May 4, 2026; The Hill Times, "[As Mexico and U.S. are set to start the CUSMA review, Canada continues waiting game](https://www.hilltimes.com/2026/04/29/as-mexico-and-u-s-are-set-to-start-the-cusma-review-canada-continues-waiting-game/501662/)," April 29, 2026.
+
+[^8]: Al Jazeera, "[What's behind the secessionist movement in the Canadian province Alberta?](https://www.aljazeera.com/news/2026/5/6/whats-behind-the-secessionist-movement-in-the-canadian-province-alberta)," May 6, 2026; Time, "[Albertans Could Soon Vote on Whether to Separate From Canada. Here's What to Know](https://time.com/article/2026/05/05/alberta-canada-separatist-movement-referendum/)," May 5, 2026; CBC News, "[Challenge filed about biased content on Alberta government's referendum website](https://www.cbc.ca/news/canada/edmonton/alberta-referendum-website-complaint-immigration-9.7178022)," 2026.
