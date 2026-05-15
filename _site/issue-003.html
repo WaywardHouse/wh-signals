@@ -41,10 +41,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-cb9133ab498e63a3329f2e6b8cd285fe.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3bff0e16574abb978c437f9a241f6d9f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,6 +72,10 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<!-- Wayward House — book theme: fonts only (no render-blocking JS) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,300;0,400;0,600;0,700;0,800;1,700&amp;family=Barlow:wght@300;400;500;600;700&amp;family=IBM+Plex+Mono:ital,wght@0,300;0,400;0,500;1,300&amp;family=Literata:ital,opsz,wght@0,7..72,300;0,7..72,400;0,7..72,500;1,7..72,300;1,7..72,400&amp;display=swap" rel="stylesheet">
 
 
 </head>
@@ -132,6 +136,32 @@ ul.task-list li input[type="checkbox"] {
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
+<!-- Wayward House — book theme: site header (rendered before Quarto body) -->
+<header class="wh-bk-hdr" role="banner">
+  <div class="wh-bk-hdr__inner">
+
+    <a class="wh-bk-brand" href="https://wayward.house/" aria-label="Wayward House home">
+      <span class="wh-bk-brand__word">Wayward</span><span class="wh-bk-brand__dot" aria-hidden="true">·</span><span class="wh-bk-brand__word">House</span>
+    </a>
+
+    <nav class="wh-bk-nav" aria-label="Site navigation">
+      <a href="https://wayward.house/essays/">Essays</a>
+      <a href="https://wayward.house/signals/">System Signals</a>
+      <a href="https://wayward.house/library/">Library</a>
+      <a href="https://wayward.house/topics/">Topics</a>
+      <a href="https://wayward.house/about/">About</a>
+      <a href="https://wayward.house/ask/" class="wh-bk-nav__pepper">🐾 Ask Pepper</a>
+    </nav>
+
+    <!-- Mobile sidebar toggle — mirrors Quarto's own button so it works with Bootstrap collapse -->
+    <button class="wh-bk-menu-btn" type="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle chapter navigation">
+      <span class="wh-bk-menu-btn__bar" aria-hidden="true"></span>
+      <span class="wh-bk-menu-btn__bar" aria-hidden="true"></span>
+      <span class="wh-bk-menu-btn__bar" aria-hidden="true"></span>
+    </button>
+
+  </div>
+</header>
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -258,6 +288,259 @@ ul.task-list li input[type="checkbox"] {
 <li id="fn9"><p>Statistics Canada, “<a href="https://www150.statcan.gc.ca/n1/daily-quotidien/260402/dq260402a-eng.htm">Canadian international merchandise trade, February 2026</a>,” April 2, 2026; BNN Bloomberg, “<a href="https://www.bnnbloomberg.ca/business/2026/04/02/canadas-february-trade-deficit-surges-to-a-six-month-high-on-gold-imports/">Canada’s February trade deficit surges to six-month high on gold imports</a>,” April 2, 2026.<a href="#fnref9" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main> <!-- /main -->
+<!-- Wayward House — book theme: footer + behaviour JS -->
+
+<footer class="wh-bk-ftr" role="contentinfo">
+  <div class="wh-bk-ftr__inner">
+
+    <div class="wh-bk-ftr__brand">
+      <div class="wh-bk-ftr__logo">Wayward<span>·</span>House</div>
+      <p>Understanding how place, economy, and environment interact through analysis, modelling, and open tools.</p>
+    </div>
+
+    <nav class="wh-bk-ftr__col" aria-labelledby="ftr-read">
+      <h2 id="ftr-read">Read</h2>
+      <a href="https://wayward.house/essays/">Essays</a>
+      <a href="https://wayward.house/signals/">System Signals</a>
+      <a href="https://wayward.house/topics/">Topics</a>
+    </nav>
+
+    <nav class="wh-bk-ftr__col" aria-labelledby="ftr-learn">
+      <h2 id="ftr-learn">Learn</h2>
+      <a href="https://wayward.house/library/">Library</a>
+      <a href="https://wayward.house/computational-geography/">Computational Geography</a>
+      <a href="https://wayward.house/mathematics/">Mathematics</a>
+    </nav>
+
+    <nav class="wh-bk-ftr__col" aria-labelledby="ftr-site">
+      <h2 id="ftr-site">Site</h2>
+      <a href="https://wayward.house/about/">About</a>
+      <a href="https://wayward.house/start-here/">Start Here</a>
+      <a href="https://wayward.house/privacy/">Privacy</a>
+      <a href="https://wayward.house/terms/">Terms</a>
+    </nav>
+
+  </div>
+  <div class="wh-bk-ftr__base">
+    <span>© 2026 Wayward House · Paul Hobson</span>
+    <span>CC BY 4.0 · MIT code</span>
+  </div>
+</footer>
+
+<!-- ── Ask Pepper — floating widget ────────────────────────────────────── -->
+<style>
+.wh-pepper-fab{position:fixed;bottom:28px;right:28px;z-index:9100;width:52px;height:52px;background:var(--wh-red,#e02020);color:#fff;border:none;cursor:pointer;font-size:1.375rem;line-height:1;display:flex;align-items:center;justify-content:center;transition:transform .15s ease}
+.wh-pepper-fab:hover{transform:scale(1.08)}
+.wh-pepper-fab:active{transform:scale(.97)}
+.wh-pepper-panel{position:fixed;bottom:92px;right:28px;z-index:9101;width:340px;max-height:calc(100vh - 120px);background:var(--wh-white,#fff);border:1px solid var(--wh-rule,#d0d0c8);border-top:3px solid var(--wh-red,#e02020);display:flex;flex-direction:column}
+.wh-pepper-panel[hidden]{display:none}
+.wh-pepper-panel__hdr{display:flex;align-items:center;justify-content:space-between;padding:10px 14px;border-bottom:1px solid var(--wh-rule,#d0d0c8)}
+.wh-pepper-panel__title{font-family:var(--wh-ff-display,'Barlow Condensed',sans-serif);font-size:.9rem;font-weight:600;color:var(--wh-dark,#1c1c1a);display:flex;align-items:center;gap:6px}
+.wh-pepper-panel__close{width:28px;height:28px;display:flex;align-items:center;justify-content:center;background:none;border:none;font-size:1.25rem;color:var(--wh-muted,#9a9a94);cursor:pointer;line-height:1}
+.wh-pepper-panel__close:hover{color:var(--wh-dark,#1c1c1a)}
+.wh-pepper-panel__body{padding:14px;display:flex;flex-direction:column;gap:12px}
+.wh-pepper-panel__resp{flex:1;min-height:0;max-height:min(380px,55vh);overflow-y:auto;padding:10px 12px;background:var(--wh-paper,#f8f8f4);border-left:3px solid var(--wh-rule,#d0d0c8)}
+.wh-pepper-panel__resp[hidden]{display:none}
+.wh-pepper-panel__answer{font-family:var(--wh-ff-read,Georgia,serif);font-size:.875rem;line-height:1.7;color:var(--wh-dark,#1c1c1a);margin:0;white-space:pre-wrap}
+.wh-pepper-panel__answer.is-loading::after{content:'▋';animation:wh-pepper-blink .8s step-end infinite}
+@keyframes wh-pepper-blink{50%{opacity:0}}
+.wh-pepper-panel__row{display:flex;gap:8px}
+.wh-pepper-panel__input{flex:1;padding:8px 10px;font-family:var(--wh-ff-body,Arial,sans-serif);font-size:.875rem;border:1px solid var(--wh-rule,#d0d0c8);background:var(--wh-white,#fff);color:var(--wh-dark,#1c1c1a);outline:none;min-width:0}
+.wh-pepper-panel__input:focus{border-color:var(--wh-red,#e02020)}
+.wh-pepper-panel__submit{padding:8px 14px;background:var(--wh-red,#e02020);color:#fff;border:none;font-size:1rem;cursor:pointer;flex-shrink:0;transition:opacity .15s}
+.wh-pepper-panel__submit:hover{opacity:.88}
+.wh-pepper-panel__submit:disabled{opacity:.5;cursor:not-allowed}
+.wh-pepper-panel__hint{font-size:.75rem;color:var(--wh-muted,#9a9a94);margin:0;line-height:1.5}
+.wh-pepper-panel__hint a{color:var(--wh-muted,#9a9a94);text-decoration:underline}
+.wh-pepper-panel__hint a:hover{color:var(--wh-red,#e02020)}
+@media(max-width:480px){.wh-pepper-panel{right:0;left:0;bottom:80px;width:100%;border-left:none;border-right:none}.wh-pepper-fab{bottom:20px;right:20px}}
+</style>
+
+<div id="wh-pepper-root">
+  <button id="wh-pepper-fab" class="wh-pepper-fab" aria-label="Ask Pepper" title="Ask Pepper — archive assistant" type="button">🐾</button>
+  <div id="wh-pepper-panel" class="wh-pepper-panel" hidden="" aria-live="polite">
+    <div class="wh-pepper-panel__hdr">
+      <span class="wh-pepper-panel__title"><span aria-hidden="true">🐾</span> Ask Pepper</span>
+      <button class="wh-pepper-panel__close" id="wh-pepper-close" aria-label="Close" type="button">×</button>
+    </div>
+    <div class="wh-pepper-panel__body">
+      <div class="wh-pepper-panel__resp" id="wh-pepper-resp" hidden="">
+        <p class="wh-pepper-panel__answer" id="wh-pepper-answer"></p>
+      </div>
+      <form id="wh-pepper-form" novalidate="">
+        <div class="wh-pepper-panel__row">
+          <input type="text" id="wh-pepper-input" class="wh-pepper-panel__input" placeholder="Ask a geography question…" autocomplete="off" maxlength="500">
+          <button type="submit" class="wh-pepper-panel__submit" id="wh-pepper-submit">→</button>
+        </div>
+      </form>
+      <p class="wh-pepper-panel__hint">Pepper knows the <a href="https://wayward.house/ask/" target="_blank" rel="noopener">Wayward House archive</a> — Alberta, energy, trade, environment.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var fab=document.getElementById('wh-pepper-fab'),panel=document.getElementById('wh-pepper-panel'),
+      close=document.getElementById('wh-pepper-close'),form=document.getElementById('wh-pepper-form'),
+      input=document.getElementById('wh-pepper-input'),submit=document.getElementById('wh-pepper-submit'),
+      resp=document.getElementById('wh-pepper-resp'),answer=document.getElementById('wh-pepper-answer');
+  function openPanel(){panel.hidden=false;fab.setAttribute('aria-expanded','true');setTimeout(function(){input.focus();},50);}
+  function closePanel(){panel.hidden=true;fab.setAttribute('aria-expanded','false');}
+  fab.addEventListener('click',function(){panel.hidden?openPanel():closePanel();});
+  close.addEventListener('click',closePanel);
+  document.addEventListener('keydown',function(e){if(e.key==='Escape'&&!panel.hidden)closePanel();});
+  async function ask(question){
+    if(!question.trim())return;
+    resp.hidden=false;answer.textContent='';answer.classList.add('is-loading');submit.disabled=true;submit.textContent='…';
+    try{
+      var res=await fetch('https://wayward.house/api/ask',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question:question})});
+      if(!res.ok){var d=await res.json().catch(function(){return{};});answer.classList.remove('is-loading');answer.textContent=d.error||'Something went wrong. Please try again.';return;}
+      var reader=res.body.getReader(),decoder=new TextDecoder(),buffer='',text='';
+      while(true){
+        var chunk=await reader.read();if(chunk.done)break;
+        buffer+=decoder.decode(chunk.value,{stream:true});
+        var lines=buffer.split('\n');buffer=lines.pop();
+        for(var i=0;i<lines.length;i++){
+          var line=lines[i];if(!line.startsWith('data: '))continue;
+          var data=line.slice(6);if(data==='[DONE]')continue;
+          try{var p=JSON.parse(data);if(p.sources)continue;var t=p.response||(p.choices&&p.choices[0]&&p.choices[0].delta&&p.choices[0].delta.content)||'';text+=t;answer.textContent=text;}catch(e){}
+        }
+      }
+      // If answer is substantial, surface the full-page link more prominently
+      if(text.length>500){
+        var enc=encodeURIComponent(question);
+        var fullLink=document.getElementById('wh-pepper-fullpage');
+        if(!fullLink){
+          fullLink=document.createElement('a');fullLink.id='wh-pepper-fullpage';
+          fullLink.style.cssText='display:block;margin-top:10px;font-size:0.75rem;color:var(--wh-red,#e02020);text-decoration:none;font-family:var(--wh-ff-body,Arial,sans-serif);';
+          fullLink.textContent='Read full answer on Ask Pepper →';
+          resp.appendChild(fullLink);
+        }
+        fullLink.href='https://wayward.house/ask/?q='+enc;
+        fullLink.target='_blank';fullLink.rel='noopener';
+      }
+    }catch(e){answer.textContent="Pepper's nose twitched but nothing came through. Try again.";}
+    finally{answer.classList.remove('is-loading');submit.disabled=false;submit.textContent='→';}
+  }
+  form.addEventListener('submit',function(e){e.preventDefault();ask(input.value);});
+})();
+</script>
+
+<!-- Back-to-top button -->
+<button class="wh-bk-top" type="button" aria-label="Back to top" hidden="">
+  <span aria-hidden="true">↑</span>
+</button>
+
+<script>
+(function () {
+  'use strict';
+
+  /* ── 0. Hoist WH elements to <body> for full-width layout ──────────────── *
+   *  In Quarto BOOKS  include-before-body lands before #quarto-content, so  *
+   *  .wh-bk-hdr is already a direct child of <body> — no move needed.       *
+   *  In Quarto WEBSITES include-before-body lands *inside* #quarto-content  *
+   *  (inside the article column), so we relocate it to body.firstChild.     *
+   *  include-after-body always lands inside the content column for both, so  *
+   *  .wh-bk-ftr and .wh-bk-top always need hoisting.                        */
+  var _hdr = document.querySelector('.wh-bk-hdr');
+  var _ftr = document.querySelector('.wh-bk-ftr');
+  var _top = document.querySelector('.wh-bk-top');
+  if (_hdr && _hdr.parentElement !== document.body)
+    document.body.insertBefore(_hdr, document.body.firstChild);
+  if (_ftr) document.body.appendChild(_ftr);
+  if (_top) document.body.appendChild(_top);
+
+  /* ── 1. Sidebar: hide Quarto's built-in navbar chrome ───────────────── */
+  var hdr = document.querySelector('#quarto-header, header.navbar');
+  if (hdr) hdr.style.display = 'none';
+
+  /* ── 2. Desktop sidebar: persist open/closed state ─────────────────── */
+  var STORAGE_KEY = 'wh-book-sidebar';
+  var media       = window.matchMedia('(min-width: 992px)');
+  var body        = document.body;
+
+  function setSidebar(open) {
+    body.classList.toggle('wh-sidebar-open',     open);
+    body.classList.toggle('wh-sidebar-collapsed', !open);
+    try { localStorage.setItem(STORAGE_KEY, open ? '1' : '0'); } catch (_) {}
+  }
+
+  function initSidebar() {
+    if (!media.matches) {
+      body.classList.remove('wh-sidebar-open', 'wh-sidebar-collapsed');
+      return;
+    }
+    var stored;
+    try { stored = localStorage.getItem(STORAGE_KEY); } catch (_) {}
+    setSidebar(stored === '0' ? false : true); // default open
+  }
+
+  /* Wire the WH menu button AND Quarto's own toggle buttons */
+  document.addEventListener('click', function (e) {
+    var btn = e.target.closest(
+      '.wh-bk-menu-btn, [data-bs-target=".quarto-sidebar-collapse-item"]'
+    );
+    if (!btn || !media.matches) return;
+    e.preventDefault();
+    e.stopPropagation();
+    setSidebar(body.classList.contains('wh-sidebar-collapsed'));
+  });
+
+  /* Close sidebar when glass overlay is tapped on mobile */
+  var glass = document.getElementById('quarto-sidebar-glass');
+  if (glass) {
+    glass.addEventListener('click', function (e) {
+      if (media.matches) return;
+      e.preventDefault();
+    });
+  }
+
+  (media.addEventListener
+    ? function (fn) { media.addEventListener('change', fn); }
+    : function (fn) { media.addListener(fn); }
+  )(initSidebar);
+
+  initSidebar();
+
+  /* ── 3. Sidebar title link → site home ─────────────────────────────── */
+  var sidebar = document.getElementById('quarto-sidebar');
+  if (sidebar) {
+    var titleA = sidebar.querySelector('.sidebar-title a');
+    if (titleA) titleA.href = 'https://wayward.house/';
+  }
+
+  /* ── 4. Back-to-top button ──────────────────────────────────────────── */
+  var topBtn   = document.querySelector('.wh-bk-top');
+  var ticking  = false;
+  var reduced  = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  function updateTop() {
+    if (!topBtn) return;
+    var scrolled  = window.scrollY || document.documentElement.scrollTop || 0;
+    var longPage  = document.documentElement.scrollHeight > window.innerHeight * 1.5;
+    var threshold = Math.max(380, window.innerHeight * 0.6);
+    topBtn.hidden = !(longPage && scrolled > threshold);
+    ticking = false;
+  }
+
+  if (topBtn) {
+    topBtn.hidden = true;
+    topBtn.addEventListener('click', function () {
+      window.scrollTo({ top: 0, behavior: reduced ? 'auto' : 'smooth' });
+    });
+    window.addEventListener('scroll',  function () {
+      if (!ticking) { requestAnimationFrame(updateTop); ticking = true; }
+    }, { passive: true });
+    window.addEventListener('resize', updateTop, { passive: true });
+    updateTop();
+  }
+
+  /* ── 5. Suppress Quarto's native page-footer ────────────────────────── */
+  var qtFtr = document.querySelector('footer.page-footer');
+  if (qtFtr) qtFtr.style.display = 'none';
+
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

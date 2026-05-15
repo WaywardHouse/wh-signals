@@ -1,0 +1,183 @@
+---
+title: System Signals No. 7
+subtitle: >
+  Ceasefire on life support, the referendum petition quashed,
+  and LNG Canada's ownership in play
+date: 2026-05-14
+issue: 7
+description: >
+  A weekly systems digest on what moved beneath the headlines in the week
+  ending May 14, 2026: Trump rejects Iran's peace counteroffer as "garbage"
+  and declares the ceasefire "on life support," sending Brent back above
+  $107 while the IEA reports global inventories drawing down at a record
+  4 mb/d; an Alberta judge quashes the separation referendum petition for
+  failure to consult First Nations, with Premier Smith calling the ruling
+  "anti-democratic" and promising an appeal; Shell auctions up to 30% of
+  LNG Canada to private equity as Keyera closes its contested $5.3 billion
+  NGL acquisition at the Fort Saskatchewan hub over a Competition Bureau
+  challenge; and the Bank of Canada says it sees no clear rate path as
+  tariff and oil risks pull in opposite directions.
+categories:
+  - "Economic Geography"
+  - "Energy Policy"
+  - "Trade Policy"
+  - "Monetary Policy"
+image: assets/images/signals.webp
+toc: true
+---
+
+> **Published May 14, 2026.** _System Signals_ is a recurring Wayward House briefing for readers who want the week sorted by system rather than by noise. This issue covers the week ending Thursday, May 14, 2026.
+
+---
+
+## This Week's Pattern
+
+Last week's issue closed on a note of contingent possibility: the first credible peace framework in three months had appeared, oil had fallen to $100, and the policy assumptions built on elevated energy prices were all, simultaneously, under visible pressure. This week closed each of those possibilities back down.
+
+Trump rejected Iran's counteroffer on May 11, calling it "garbage" and declaring the ceasefire "on life support." Brent reversed to $107.77 — a 3.4% jump in a single session. The diplomatic opening that had briefly reordered every Canadian policy calculus snapped shut. The Hormuz disruption returned to its default structural state: unresolved, expensive, and without an evident exit.
+
+On May 13 — one week after 302,000 signatures were formally submitted to Elections Alberta — Justice Shaina Leonard of the Court of King's Bench quashed the Elections Alberta decision to approve the separatist petition, ruling that First Nations consultation was required before the process could begin. The October 19 independence vote that had gathered enough signatures last week now has a court injunction in front of it.
+
+The week's third structural story was quieter but may prove longer-lasting: Shell is running an auction of its LNG Canada stake, with Apollo, Blackstone, and KKR bidding. Financial investors taking a majority share of Canada's only operating LNG terminal changes what Phase 2 will require and from whom.
+
+The week's pattern is not reversal. It is the return of suspension — the condition in which resolution is visible but not achievable, in which multiple systems are operating near their constraint boundaries without breaking.
+
+---
+
+## The Ceasefire on Life Support
+
+The one-page MOU framework brokered through Pakistan — which drove Brent from $114 to $100 in the five days spanning issues 5 and 6 — is functionally stalled.
+
+Iran's formal response, delivered the week of May 5, diverged significantly from the U.S. terms. Tehran demanded compensation for war damage, insisted on full sovereignty over the Strait of Hormuz, and called for a simultaneous end to the conflict on all fronts including Israel's campaign against Hezbollah in Lebanon — a condition the U.S. has consistently rejected as outside the bilateral negotiation's scope.[^1] On May 11, Trump called the response "a piece of garbage" and said the ceasefire was "on massive life support."[^2]
+
+Oil moved immediately. Brent futures for July gained 3.4% to close at $107.77; WTI futures for June rose 4.2% to settle at $102.18.[^2] Shipping traffic in the Strait of Hormuz remained at a standstill.
+
+The structural reading for Canada is familiar from prior issues: each $10 move in WTI represents roughly $400 million per month in Alberta royalties at current production. WTI at $102 is a $29 beat on the Spring Economic Update's $73 planning assumption — approximately $1.2 billion per month in unplanned provincial revenue. That beat has now persisted long enough to show up in Alberta's mid-year fiscal numbers. It is also, simultaneously, the variable driving the Bank of Canada's inflation concern, the premium underpinning Trans Mountain's Asian route economics, and the commercial case for every energy infrastructure project now in federal review.
+
+The deal is not dead. The framework remains on the table and Pakistan's mediating role is intact. But there is no evident bridging mechanism on Iran's core demands, and the U.S. has given no indication it will broaden the negotiation's scope. The ceasefire that briefly appeared to be a month away is back to being an open question.
+
+What the rejection also clarifies is the supply picture behind the price. The IEA's May 2026 Oil Market Report puts global supply losses since February at **12.8 mb/d**, with Gulf output running **14.4 mb/d** below pre-war levels.[^9] Global oil inventories are now drawing down at a record pace of **4 mb/d** — the buffer that has kept consumers partially insulated from the full shock is thinning faster than it can be replenished.[^10] Chevron's chief executive and Goldman Sachs have both warned publicly this week about the risk of physical oil shortages as that inventory cushion erodes. Critically, the IEA projects that even assuming Hormuz flows resume from June, global supply and trade patterns will not recover to pre-conflict levels until late 2026 or early 2027.[^9] The ceasefire, if and when it comes, does not end the supply story. It begins a separate, slower recovery story.
+
+---
+
+## The Farm Margin, the Flood, and the Fertilizer Chain
+
+Spring seeding is the most fuel- and fertilizer-intensive period of the agricultural calendar. This year, it is running late, running expensive, and running with less runway.
+
+Retail diesel in Canada averaged CAD $2.21 per litre as of May 4, up more than 50% year-over-year.[^13] Farmers pay an excise-exempt on-farm rate of around $1.50 per litre, but a single tractor burns through 1,000 litres in a day and fleets run for weeks during seeding.[^14] Nitrogen fertilizer is a more acute problem. Urea jumped **53.7%** in March to $725.60 per tonne; a farmer buying urea now rather than at last autumn's prices could face $140,000 in additional input costs on a single operation.[^14] Many larger operations forward-purchased before the price spike — which is why the full margin squeeze is more likely to hit 2027 planting decisions than this year's seeding, though the pressure is already real.
+
+The reason for the nitrogen spike is the same as the reason for the oil price spike: roughly **one-third of global seaborne fertilizer shipments** of nitrogen and phosphate products pass through the Strait of Hormuz.[^15] The disruption that has repriced crude has simultaneously repriced the input cost of growing food, through the same chokepoint, on the same timeline.
+
+In Saskatchewan this week, flooding added a third pressure. Multiple areas are under local states of emergency, with CP24 reporting May 10 that farmers are facing a "triple threat" of floods, fuel, and fertilizer costs.[^16] As of May 4, only approximately **3% of Saskatchewan crops had been seeded** — delays of two to three weeks are projected.[^17] A compressed growing window increases frost risk in August and September. Washed-out roads are also limiting movement of heavy equipment to fields.
+
+Canada's position in the fertilizer market is a partial offset. It holds roughly **31% of global potash production** — potash being the third macro-nutrient in the nitrogen-phosphorus-potassium triad that governs crop yield.[^15] Canada cannot replace the nitrogen and phosphate disrupted by Hormuz, but it is not exposed to that specific disruption in the same way as net-importing agricultural economies. The World Bank has warned that global fertilizer prices could rise by more than 30% in 2026 due to the Strait blockade.[^15]
+
+One partial offset on the demand side arrived this week. China reduced its tariffs on Canadian canola seeds to approximately 15% and fully suspended tariffs on canola meal until the end of 2026 — a significant signal for Saskatchewan producers whose main export crop had been caught between Chinese trade friction and Middle East input cost pressure simultaneously.[^22] It does not resolve the margin squeeze, but it changes the revenue side of the calculation for the province's canola acres.
+
+TD Economics published a note on May 11 arguing that food inflation risks from war-induced fertilizer disruptions are "modest" in Canada, citing the potash production advantage and widespread pre-purchased fertilizer stocks among larger farms.[^18] That assessment is plausible within its assumptions. What it does not model is a spring seeding season that combines a 50% diesel spike, a 54% urea move, widespread prairie flooding, and a ceasefire the U.S. president just called "on life support." The Bank of Canada, meanwhile, projected food inflation easing toward 2% by early 2027 on an assumption of easing energy prices.[^7] Canadian food inflation was running at **4% in March 2026**, down from 7.3% in January but still well above that projection path.[^19] The lagged effect of current input costs will appear in grocery prices in the months ahead, not in the data already in hand.
+
+---
+
+## The Petition That Couldn't Stand
+
+The ruling turned on a procedural obligation the province had never triggered. When Stay Free Alberta first applied in summer 2025, a reviewing judge found the original question unconstitutional — in part because separation would violate treaty rights held by Alberta's First Nations. The group reapplied with a revised question; Elections Alberta issued the petition in January 2026 without requiring the consultation that treaty obligations mandated. Justice Leonard found this was wrong in law: First Nations must be consulted before any process begins that could lead to a binding referendum on separation, not after.[^3]
+
+Premier Danielle Smith responded immediately: "This is a decision by one judge. We think this decision is incorrect in law and anti-democratic, and we will be appealing it as a result."[^3] The appeal will go to the Court of Appeal of Alberta. The October 19 ballot date — on which Smith had committed to holding the referendum if the petition threshold was cleared — is now legally contingent on the appeal's outcome and timeline.
+
+The ruling does not say separation is impossible. It says the process by which an independence referendum could be called requires consultation with the nations whose treaty rights would be materially affected by the outcome. That is a procedural requirement, not a substantive prohibition. The appeal could succeed. A consultation process could still clear the path. The October 19 vote could still happen, though the timeline is under significant pressure.
+
+What the ruling does is insert the constitutional relationship between Alberta and its First Nations into the centre of a debate that has largely proceeded as if those nations' positions were ornamental rather than structural. The 302,000 signatures represent a real body of political sentiment. The treaty obligations they ran into are a real body of law. Both are simultaneously true, and the legal architecture does not resolve easily in the direction the petition's organizers expected.
+
+The following day — May 15 — Prime Minister Carney and Premier Smith are scheduled to sign an implementation agreement on energy collaboration.[^21] The cooperative track and the contested track are not just running in parallel; they are on consecutive days in the same provincial capital. The agreement does not resolve the tension. It is, in a sense, a precise illustration of it.
+
+---
+
+## Energy Infrastructure, Ownership in Motion
+
+Two significant Canadian energy infrastructure ownership transitions closed or advanced this week, each under a different kind of regulatory scrutiny.
+
+Shell is selling up to three-quarters of its 40% stake in LNG Canada — roughly 30% of the total project — in an auction that has drawn Apollo Global Management, Blackstone, and KKR as the leading bidders.[^4] Mitsubishi, which holds a 15% stake, is separately exploring the sale of its own position.[^5] The sale follows Shell's $22 billion acquisition of ARC Resources, announced April 28, which made Shell the second-largest producer in the Montney formation — behind only Ovintiv, which itself completed a $3.8 billion acquisition of NuVista Energy earlier this year.[^4] The ARC deal gives Shell a direct feedstock supply for LNG Canada's Kitimat facility. Holding both the upstream gas supply and a 40% terminal stake creates a concentration Shell has signalled it wants to partially unwind, recycling LNG Canada exposure into capital for Phase 2 and the ARC integration.
+
+The Montney context matters here. The formation holds an estimated **449 trillion cubic feet** of recoverable natural gas and already accounts for over 60% of Canada's gas production.[^11] The simultaneous Shell-ARC and Ovintiv-NuVista deals represent a consolidation of the Montney's upstream base into fewer, larger hands — hands that are now also, directly or indirectly, linked to LNG export capacity. The resource base is not the constraint. The export terminal ownership structure is.
+
+Separately, Keyera Corp. closed its **$5.3 billion** acquisition of Plains All American's Canadian NGL business on May 12 — the same day Trump rejected Iran's counteroffer.[^12] The Competition Bureau had filed a challenge with the Competition Tribunal on May 5, arguing that the deal reduces major integrated NGL service providers at the Fort Saskatchewan hub from three to two, weakening competitive discipline in fractionation and storage contracts for upstream producers.[^12] Keyera closed the deal regardless — permitted under Canadian competition law — and has 45 days from the Bureau's May 5 filing to respond. If the Tribunal sides with the Bureau, Keyera could be required to divest certain assets.
+
+Fort Saskatchewan is Canada's primary NGL processing hub, handling the natural gas liquids stream from both conventional and oil sands production across Alberta. The Bureau's intervention is structurally notable: it is the regulator asserting, at the moment when energy infrastructure's strategic value is at its highest in years, that concentration at a critical midstream node is not in producers' interests. Whether the Tribunal agrees will determine whether the competitive architecture of that hub contracts further or holds.
+
+The ownership questions at LNG Canada and Fort Saskatchewan are different in kind — one involves financial sponsors replacing energy majors, the other involves a midstream consolidation that the regulator is contesting — but they share a common condition: the infrastructure decisions that will shape Canadian energy export capacity for a decade are being made, or contested, right now.
+
+---
+
+## The Bank Has No Clear Path
+
+On May 13, Bloomberg reported that the Bank of Canada sees "no clear rate path" amid tariff and oil risks — a formulation that marks a shift from the May 4–6 parliamentary testimony, which had explicitly named consecutive rate hikes as a live possibility.[^6]
+
+The underlying bind is unchanged: oil above $100 risks feeding energy inflation into services and wages; significant new U.S. tariffs on Canada risk suppressing demand enough to warrant cuts. Both scenarios remain live simultaneously. The Bank cannot credibly pre-commit to a direction without knowing which materialises first. "Monetary policy may need to be nimble" is the operational translation — but nimble is not a rate path, it is an acknowledgment that forward guidance is harder to provide when the most important input is a geopolitical negotiation no Canadian institution can influence.
+
+Today's April employment report sharpens the bind in the other direction. Statistics Canada reported Canada shed **18,000 jobs** in April, pushing the unemployment rate to a **six-month high of 6.9%**.[^20] Net job losses since January now stand at approximately 112,000, concentrated in full-time positions, with manufacturing sales down 6.6% since the start of the year.[^20] A labour market softening of that pace is precisely the kind of demand-side signal that would normally argue for cuts — at the same moment oil at $107 is arguing for hikes. The Bank now has both signals in the same data window ahead of its June 10 decision.
+
+The April CPI print — which the Bank projected at approximately 3% in its April 29 MPR — releases on May 19.[^7] That will be the first inflation data point since the Hormuz ceasefire hope collapsed and the jobs report landed. If April CPI confirms the 3% projection against a softening labour market, the Bank's communications challenge becomes acute. The consecutive-hike language and the cut-if-tariffs-bite language are now both live in the same economy at the same time.
+
+---
+
+## CUSMA: Seven Weeks Out
+
+No material movement this week. Canada's former trade envoy characterised the state of play bluntly: "nothing is likely to come out of the review in the foreseeable future" given that Ottawa and Washington's positions remain "still too far apart."[^8] The July 1 formal review opening is now seven weeks away.
+
+The durable backstop is the CUSMA exemption regime: over 98% of tariff lines and more than 99.9% of bilateral trade in CUSMA-compliant goods remain exempt from IEEPA tariffs.[^8] The residual friction sits in the sectoral carve-outs — steel, aluminum, autos, certain wood products — where the ongoing counter-tariff architecture on both sides remains in place. What the July 1 date establishes is a formal negotiation framework, not a resolution mechanism; the review could run into 2027 and still be formally underway.
+
+---
+
+## Why These Belong Together
+
+Trump's rejection of Iran's counteroffer reversed the week's most important price signal and extended the Hormuz disruption's structural conditions — but the IEA's May report adds a harder constraint beneath the price: global inventories drawing down at 4 mb/d, supply losses of 12.8 mb/d since February, and a recovery timeline that runs to late 2026 even if a deal is signed tomorrow. The same chokepoint that is repricing oil is repricing fertilizer: one-third of global seaborne nitrogen and phosphate passes through the Strait, urea is up 54% in a single month, and Saskatchewan farmers are entering a compressed seeding season already stressed by flooding and diesel costs running 50% above last year — with the lagged effect on food prices still ahead rather than in the current data. The Bank of Canada, watching both transmissions in real time, described its position as one without a clear rate path, waiting for April CPI data on May 19 and a ceasefire signal that may not arrive before the June 10 decision. The Alberta independence petition, which had briefly converted 302,000 signatures into a credible October ballot question, was quashed by a court that found treaty consultation requirements had never been triggered — inserting the legal architecture of the federal-Indigenous relationship into the centre of a provincial-federal dispute that cooperative energy agreements have not resolved. Two energy infrastructure ownership transitions advanced simultaneously: Shell's LNG Canada auction drawing private equity into a consortium that will need to sanction a $20-billion expansion, and Keyera's contested $5.3 billion NGL acquisition at the Fort Saskatchewan hub, where the Competition Bureau is arguing that fewer owners means weaker competitive discipline for upstream producers. CUSMA's July 1 clock continues to run with no indication that Washington and Ottawa are close enough to produce a result in the foreseeable future.
+
+Each story involves a mechanism that was supposed to produce an answer and did not. The oil disruption is not the ceiling; it is the floor of a longer, slower set of transmissions through food, credit, and infrastructure. The system continues — but the week confirmed that the conditions sustaining suspension are structural, and that the calendar is tightening faster than the mechanisms are closing.
+
+---
+
+## Sources This Week
+
+[^1]: CBS News, "[Iran vows to fight on as Trump says ceasefire is 'on life support'](https://www.cbsnews.com/live-updates/iran-war-trump-oil-prices-peace-proposal-unacceptable/)," May 2026.
+
+[^2]: CNBC, "[U.S. crude oil tops $100 again as hope fades for a U.S.-Iran peace deal](https://www.cnbc.com/2026/05/12/oil-prices-today-brent-wti-trump-iran-war-hormuz.html)," May 12, 2026; Euronews, "[Oil jumps 4% as Trump rejects Iran's response to ceasefire proposal](https://www.euronews.com/business/2026/05/11/oil-jumps-4-after-trump-rejects-irans-response-to-ceasefire-proposal)," May 11, 2026; PBS NewsHour, "[Trump rejects latest Iran peace proposal, says ceasefire on 'life support'](https://www.pbs.org/newshour/show/trump-rejects-latest-iran-peace-proposal-says-ceasefire-on-life-support)," May 2026.
+
+[^3]: CBC News, "[Judge overturns Elections Alberta's approval of separation referendum petition](https://www.cbc.ca/news/canada/edmonton/judge-quashes-decision-to-approve-separation-petition-9.7198553)," May 2026; Global News, "[Judge quashes Alberta separation petition in favour of First Nations](https://globalnews.ca/news/11848163/alberta-judge-quashes-separation-petition-in-favour-of-first-nations/)," May 2026; Lethbridge Herald, "[Judge quashes Alberta separation petition, Smith calls ruling 'anti-democratic'](https://lethbridgeherald.com/news/national-news/2026/05/13/judge-quashes-alberta-separation-petition-smith-calls-ruling-anti-democratic/)," May 13, 2026.
+
+[^4]: BOE Report, "[Apollo, Blackstone and KKR vie for Shell stake in LNG Canada, sources say](https://boereport.com/2026/04/30/apollo-blackstone-and-kkr-vie-for-shell-stake-in-lng-canada-sources-say/)," April 30, 2026; BNN Bloomberg, "[Blockbuster $22B Shell-ARC deal bodes well for expansion to LNG Canada, experts say](https://www.bnnbloomberg.ca/business/2026/04/28/blockbuster-22b-shell-arc-deal-bodes-well-for-expansion-to-lng-canada-experts-say/)," April 28, 2026.
+
+[^5]: CTV News, "[Shell, Mitsubishi exploring sale options for their stakes in LNG Canada: Reuters](https://www.ctvnews.ca/business/article/shell-mitsubishi-exploring-sale-options-for-their-stakes-in-lng-canada-reuters-exclusive/)," 2026.
+
+[^6]: Bloomberg, "[Bank of Canada Sees No Clear Rate Path Amid Tariff and Oil Risks](https://www.bloomberg.com/news/articles/2026-05-13/bank-of-canada-sees-no-clear-rate-path-amid-tariff-and-oil-risks)," May 13, 2026.
+
+[^7]: Bank of Canada, "[Monetary Policy Report—April 2026](https://www.bankofcanada.ca/publications/mpr/mpr-2026-04-29/)," April 29, 2026.
+
+[^8]: Global News, "[CUSMA exemptions make trade war 'less of a crisis': Canada's ex-trade envoy](https://globalnews.ca/news/11838726/cusma-exemptions-trade-war-canada-trade-envoy/)," May 2026.
+
+[^9]: IEA, "[Oil Market Report — May 2026](https://www.iea.org/reports/oil-market-report-may-2026)," May 2026.
+
+[^10]: Marketplace, "[Global oil inventories are falling at a record pace](https://www.marketplace.org/story/2026/05/13/global-oil-inventories-are-falling-at-a-record-pace)," May 13, 2026; Energy Connects, "[Chevron CEO, Goldman Sachs warn physical oil shortages could slow global economies](https://www.energyconnects.com/news/oil/2026/may/chevron-ceo-warns-oil-shortages-could-slow-global-economies-as-hormuz-disrupted/)," May 2026.
+
+[^11]: Energy Now, "[Canada's Montney Natural Gas is a Crown Jewel](https://energynow.ca/2026/04/canadas-montney-natural-gas-is-a-crown-jewel-resource-works/)," April 2026.
+
+[^13]: GlobalPetrolPrices.com, "[Canada diesel prices, 04-May-2026](https://www.globalpetrolprices.com/Canada/diesel_prices/)," May 4, 2026.
+
+[^14]: CBC News, "[Farmers confront rising cost of fertilizer and fuel as spring seeding underway](https://www.cbc.ca/news/canada/calgary/bakx-sidhu-spring-seeding-potash-nitrogen-fertilizer-diesel-9.7193133)," 2026; CBC News, "[Canadian farmers forced to gamble with high fuel, fertilizer costs amid Middle East war](https://www.cbc.ca/news/canada/calgary/canadian-farmers-forced-to-gamble-with-high-fuel-fertilizer-costs-amid-middle-east-war-9.7171493)," 2026.
+
+[^15]: The Tyee, "[Brace for the Looming Fertilizer Shortage](https://thetyee.ca/Analysis/2026/05/05/Brace-Looming-Fertilizer-Shortage/)," May 5, 2026.
+
+[^16]: CP24, "['A nightmare': Farmers react to flooding and high fuel costs in Saskatchewan](https://www.cp24.com/news/canada/2026/05/10/a-nightmare-farmers-react-to-flooding-and-high-fuel-costs-in-saskatchewan/)," May 10, 2026.
+
+[^17]: CBC News, "[Sask. farmers undeterred after cold, wet conditions delay seeding](https://www.cbc.ca/news/canada/saskatchewan/sask-farmers-undeterred-after-cold-wet-conditions-delay-seeding-9.7198513)," 2026.
+
+[^18]: BNN Bloomberg, "[TD report says food inflation risks from war-induced fertilizer disruptions modest](https://www.bnnbloomberg.ca/business/economics/2026/05/11/td-report-says-food-inflation-risks-from-war-induced-fertilizer-disruptions-modest/)," May 11, 2026.
+
+[^19]: Dalhousie University Agri-Food Analytics Lab, "[Canada's Food Price Report 2026](https://www.dal.ca/sites/agri-food/research/canada-s-food-price-report-2026.html)," 2026; BNN Bloomberg, "[Market Outlook: Food inflation to stay elevated in Canada in 2026](https://www.bnnbloomberg.ca/investing/market-outlook/2026/03/06/market-outlook-food-inflation-to-stay-elevated-in-canada-in-2026/)," March 6, 2026.
+
+[^20]: CBC News, "[Canada's economy dropped 18,000 jobs in April as unemployment rose to 6-month high](https://www.cbc.ca/news/business/canada-jobs-april-2026-9.7192292)," May 2026.
+
+[^21]: Prime Minister of Canada, "[Friday, May 15, 2026](https://www.pm.gc.ca/en/news/media-advisories/2026/05/14/friday-may-15-2026)," May 14, 2026.
+
+[^22]: CBC News, "[Sask. canola faces uncertainty even with China's tariffs down](https://www.cbc.ca/news/canada/saskatchewan/china-canola-tariff-high-input-costs-iran-conflict-9.7116671)," 2026.
+
+[^12]: Keyera Corp., "[Keyera Announces Closing of Acquisition of Plains' Canadian NGL Business](https://www.keyera.com/news-and-stories/news-releases/keyera-announces-closing-of-acquisition-of-plains-canadian-ngl-business/)," May 12, 2026; Canada.ca, "[Competition Bureau challenges Keyera's proposed acquisition at a critical Canadian energy hub](https://www.canada.ca/en/competition-bureau/news/2026/05/backgrounder-competition-bureau-challenges-keyeras-proposed-acquisition-at-a-critical-canadian-energy-hub.html)," May 5, 2026; Globe and Mail, "[Keyera closes deal to buy Plains' Canadian natural gas liquids business amid challenge from regulator](https://www.theglobeandmail.com/business/industry-news/energy-and-resources/article-keyera-closes-deal-to-buy-plains-canadian-nlg-business-competition/)," May 2026.
