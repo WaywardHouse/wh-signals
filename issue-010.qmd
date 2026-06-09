@@ -1,0 +1,126 @@
+---
+title: System Signals No. 10
+subtitle: >
+  The ceasefire premium fades, eighty-eight thousand jobs,
+  and CUSMA's four-week window
+date: 2026-06-05
+issue: 10
+description: >
+  A weekly systems digest on what moved beneath the headlines in the week
+  ending June 5, 2026: Brent crude falls 20% from its 2026 peak as
+  ceasefire optimism grows, shifting the commercial foundation beneath
+  Canada's announced pipeline and LNG deals; Canada adds 88,000 jobs in
+  May — the biggest gain in six months — reversing nearly 80% of 2026's
+  losses in a single month and reshaping the Bank of Canada's June 10
+  calculus; Trade Minister LeBlanc visits Washington and reports "some
+  progress, lots more to do" on CUSMA while Trump revives the 51st state
+  rhetoric and the administration proposes a new 10% forced-labour tariff
+  on 60 countries including Canada; and three northern BC pipeline routes
+  are now documented as Alberta prepares its July 1 Major Projects Office
+  submission.
+categories:
+  - "Economic Geography"
+  - "Energy Policy"
+  - "Trade Policy"
+  - "Monetary Policy"
+image: assets/images/signals.webp
+toc: true
+---
+
+> **Published June 5, 2026.** _System Signals_ is a recurring Wayward House briefing for readers who want the week sorted by system rather than by noise. This issue covers the week ending Thursday, June 5, 2026.
+
+---
+
+## This Week's Pattern
+
+The conditions that generated ten issues of announcements are beginning to partially resolve. Brent crude is down roughly 20% from its 2026 peak as ceasefire optimism grows. Canada's labour market reversed almost all of 2026's job losses in a single month. The oil price that made Pacific export infrastructure politically urgent, the jobs picture that made the Bank of Canada's bind acute, the sense that the economy was contracting faster than the deals were closing — all of those pressure signals are easing.
+
+That easing is not the same as resolution. The pipeline has no builder, no route settled, and a First Nations consultation requirement that hasn't been addressed. The Ksi Lisims LNG deal delivers product in the early 2030s. CUSMA talks moved from not-yet-started to "some progress, lots more to do" — but Trump revived the 51st state framing on the same day Canada's trade minister was in Washington, and a new forced-labour tariff landed on 60 countries including Canada. The ceasefire that is pulling oil prices down hasn't been signed.
+
+The structural question this week is not whether conditions are improving — some clearly are. It is whether the announcements made under peak pressure will survive the partial normalization of the conditions that made them.
+
+---
+
+## The Oil Floor Descends
+
+Brent crude has fallen roughly **20%** from its 2026 peak, settling near **$92–95 per barrel** through the week on growing optimism that the U.S.-Iran ceasefire framework will hold and the Strait of Hormuz will reopen. The move follows weeks of signals — Trump's "largely negotiated" comment on May 23, the 60-day MOU framework, the apparent de-escalation after the May 26 U.S. strikes — that a durable agreement is closer than at any point since April.
+
+The price range is itself a signal. Oil analysts are putting the near-term floor at **$90–100** until there is greater clarity on a lasting agreement; the full Hormuz reopening and tanker fleet normalisation that Aramco's CEO put at 2027 are not priced in yet.[^1] The market is discounting ceasefire probability, not ceasefire completion.
+
+The structural consequence for Canada is direct. The pipeline implementation agreement signed in May and the Ksi Lisims/SEFE LNG deal announced the following week were both reached in a pricing environment driven by Hormuz disruption — Brent above $100, an Asian LNG demand premium, a WTI-WCS differential that made Trans Mountain expansion commercially compelling. At $92–95, those economics are narrower. The pipeline deal's carbon price ladder and CCS conditions remain in place; the commercial urgency that made the political trade attractive on both sides is reduced. This does not unwind the agreements. It changes the pressure behind their execution.
+
+---
+
+## The May Jobs Reversal
+
+Statistics Canada's May Labour Force Survey, released today, produces the largest employment gain in six months. Canada added **88,000 jobs** in May — against an economist forecast of 10,000 — and the unemployment rate fell **0.3 percentage points** to **6.6%**. The employment rate rose **0.2 percentage points** to **60.7%**.
+
+The quality of the month's gains is its most important feature. Full-time employment rose by **154,000**, reversing nearly all of 2026's accumulated full-time losses in a single month. Part-time employment fell by **66,200**. The mix that degraded through January to April — full-time positions replaced by part-time — partially corrected in May.
+
+The sectoral distribution is also coherent with real activity: construction added **27,000** (+1.7%), transportation and warehousing **19,000** (+1.7%), information, culture and recreation **19,000** (+2.3%). Wholesale and retail trade fell **35,000** (-1.2%). Youth unemployment declined **0.9 percentage points** to **13.4%**.
+
+The wage reading is the other analytically significant number. Average hourly wages for permanent employees grew **3.2%** year-over-year in May — down sharply from **4.8%** in April. Wage growth deceleration is a direct disinflationary signal for the Bank of Canada.
+
+The accumulated YTD position remains cautionary: the May gain wiped out roughly **80%** of 2026's prior losses, not all of them.[^2] The structural contraction that Issue 9 described — not layoffs but not hiring — has been interrupted. Whether it has been reversed depends on whether May was a genuine inflection or a one-month correction against an overly depressed April base.
+
+---
+
+## June 10
+
+The Bank of Canada announces its rate decision in five days. The hold at **2.25%** remains the consensus expectation, with bond markets pricing approximately a **4%** probability of a hike. The May jobs report makes the calculus marginally cleaner in both directions.
+
+The disinflationary case: wages slowed from 4.8% to 3.2%, core CPI is at target, and oil prices are down 20% from peak. The energy inflation that the Bank explicitly flagged as the primary upside risk in April is partly reversing mechanically. If the ceasefire holds, the April CPI base effect that inflated the April 2026 headline number will fall out of the calculation.
+
+The caution case: 88,000 jobs in a single month, full-time concentration, and an unemployment rate falling from a six-month high suggest the labour market has more resilience than the January-to-April data implied. A Bank that has been holding at 2.25% since October 2025 and watching wage growth run at 4.8% in April will not pivot quickly on one month's data.
+
+The June 10 decision is almost certainly a hold. The more consequential question it will answer is the Bank's forward guidance on the second half of 2026 — whether the oil price move and the wage deceleration shift the balance toward a cut later in the year, or whether the one-month jobs surge resets that calculus.[^3]
+
+---
+
+## CUSMA: Four Weeks Out
+
+Trade Minister Dominic LeBlanc traveled to Washington this week with chief negotiator Janice Charette and met U.S. Trade Representative Jamieson Greer. LeBlanc formally wrote to his U.S. and Mexican counterparts calling for renewal of CUSMA for another **16 years** when the formal review opens on July 1. Prime Minister Carney described the week's talks as producing "some progress" while acknowledging there is "lots more to do."[^4]
+
+The week also contained two significant complications arriving in parallel. On June 2, hours after LeBlanc's meeting with Greer, Trump revived the 51st state framing — sharing an article about Canada entering a "technical recession" and appending "51st State!" — within the same news cycle as Canada's CUSMA renewal overture. Ontario Premier Doug Ford responded: "I can't believe I have to say this again, but Canada will never be the 51st state."[^5]
+
+The second complication is structural. The Trump administration proposed new **10% additional tariffs** on 60 trading partners — including Canada, the UK, the EU, Mexico, and Taiwan — following a forced-labour supply chain investigation. Canada falls in the lower-rate category of 16 partners described as "taking some steps" on forced labour, and faces the 10% rate rather than the higher 12.5% applied to others. Prime Minister Carney said the proposal was "not a surprise" and announced incoming Canadian legislation to strengthen forced-labour prohibitions in supply chains.[^6]
+
+The structural position is clearer than it was a week ago but not resolved. Canada has now formally engaged, is on the record calling for renewal, and has had its first substantive meeting. The U.S. has raised approximately **30 issues** with Canada — against roughly 60 with Mexico. The July 1 deadline is four weeks away. The forced-labour tariff adds a new bilateral irritant to an already crowded negotiating table.
+
+---
+
+## The Pipeline Proposal Takes Shape
+
+Alberta's submission to the federal Major Projects Office is due July 1 — the same day CUSMA's formal review opens. New documents obtained this week show three candidate routes through northern British Columbia under active consideration: a northern corridor toward Observatory Inlet approximately 130 kilometres north of Prince Rupert near the Alaska border; a central route to a Kitimat or Prince Rupert endpoint; and a southern corridor paralleling Trans Mountain to Burnaby. The choice of route determines the First Nations engagement requirement, the BC government's involvement, the marine transit implications, and the ultimate LNG and oil export terminal configuration.
+
+LNG Canada, meanwhile, is advancing preparation of its Kitimat terminal site for a potential Phase 2 expansion, with contractors already engaged on site work and a final investment decision expected by the end of 2026.[^7] The Coastal GasLink expansion — the upstream gas supply line for Phase 2 — is being led by LNG Canada directly.
+
+The week also produced one concrete answer to the AESO grid constraint identified in Issue 9. Bitdeer Technologies broke ground on June 2 at Fox Creek, Alberta on a **US$155 million** vertically integrated facility pairing a **101 MW** natural gas power plant with approximately **100 MW** of high-performance computing capacity.[^8] Energization is planned for Q2 2027. The project operates under Alberta's bring-your-own-generation framework — the facility bypasses the provincial grid entirely, generating its own power directly. The 37 data centre proposals sitting in AESO's deferred queue have at least one working model for what bypassing the grid actually looks like.
+
+---
+
+## Why These Belong Together
+
+The oil price decline is the upstream condition that links the week's stories to each other and to the previous nine issues. It is pulling down the energy inflation that complicated the Bank of Canada's June 10 decision; it is reducing the commercial premium that made the Carney-Smith pipeline agreement politically viable at its signing; and it is the context in which LeBlanc arrived in Washington seeking CUSMA renewal from an administration that proposed a new tariff on Canada the same afternoon. The May jobs report is the first unambiguously positive economic signal of 2026 — 88,000 jobs, full-time concentration, wages decelerating — and it lands on the eve of the Bank's decision, making the hold on June 10 easier to hold and the cut scenario cleaner for the second half of the year. CUSMA's four-week clock is running with formal talks now underway, a renewal letter on the table, a new forced-labour tariff arriving as a complicating factor, and the 51st state rhetoric resurfacing on the day Canada's team was in the room. The pipeline proposal's three northern BC routes illustrate where the real work lies: not in the implementation agreement signed last month but in the First Nations consultation, BC engagement, and route determination that must now happen on a timeline no infrastructure project of this scale has previously met. The Bitdeer Fox Creek groundbreaking is structurally instructive — it is the first visible instance of the private sector solving the electricity constraint the National Electricity Strategy identified by going around the grid rather than through it.
+
+The urgency that produced nine issues of announcements is beginning to partially resolve. The announcements still have to be built.
+
+---
+
+## Sources This Week
+
+[^1]: CNBC, "[Oil drops 20% from 2026 peak on optimism over U.S.-Iran ceasefire talks](https://www.cnbc.com/2026/05/29/oil-prices-iran-ceasefire-us-trump-strait-hormuz-energy-costs.html)," May 29, 2026; Bloomberg, "[Oil Steadies After First Drop This Week on Peace Talk Optimism](https://www.bloomberg.com/news/articles/2026-06-04/latest-oil-market-news-and-analysis-for-june-5)," June 4, 2026.
+
+[^2]: Statistics Canada, "[The Daily — Labour Force Survey, May 2026](https://www150.statcan.gc.ca/n1/daily-quotidien/260605/dq260605a-eng.htm)," June 5, 2026; Globe and Mail, "[Canada adds 87,800 jobs in May, jobless rate falls to 6.6%, beating estimates](https://www.theglobeandmail.com/business/economy/article-canada-labour-market-report-jobs-statistics-may-2026/)"; CBC News, "[Canadian economy adds 88,000 jobs in May, helping offset job losses so far this year](https://www.cbc.ca/news/business/canada-jobs-may-2026-9.7224553)."
+
+[^3]: Bank of Canada, "[Policy interest rate](https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/)"; WOWA, "[Bank of Canada Interest Rate: Current Rate 2.25%](https://wowa.ca/bank-of-canada-interest-rate)," June 2026; RBC Economics, "[BoC done with rate cuts, expects 2% inflation to persist](https://www.rbc.com/en/economics/canadian-analysis/data-flashes/boc-done-with-rate-cuts-expects-2-inflation-to-persist/)."
+
+[^4]: CBC News, "[Canada tells U.S., Mexico it wants CUSMA renewed](https://www.cbc.ca/news/world/cusma-usmca-canada-us-mexico-trade-agreement-9.7219102)"; Global News, "[Canada, U.S. 'have a lot of work to do' ahead of CUSMA deadline: LeBlanc](https://globalnews.ca/news/11886477/canada-us-trade-talks-tariffs-leblanc/)"; CBC News, "[Carney says more work to do on U.S. trade talks after negotiators return from Washington](https://www.cbc.ca/news/politics/canada-us-trade-talks-cusma-review-9.7224136)"; BNN Bloomberg, "[Canada sends letter to U.S., Mexico calling for renewal of trade agreement](https://www.bnnbloomberg.ca/tariffs/2026/06/02/canada-sends-letter-to-us-mexico-calling-for-renewal-of-trade-agreement/)," June 2, 2026.
+
+[^5]: Time, "[Trump Revisits Idea to Annex Canada and Make It the 51st State](https://time.com/article/2026/06/02/trump-annex-canada-51st-state-rhetoric-carney-us-partnership-message/)," June 2, 2026; BNN Bloomberg, "[Canada in 'different spot' when it comes to Trump tariffs](https://www.bnnbloomberg.ca/tariffs/2026/06/02/this-agreement-is-highly-beneficial-trade-minister-wants-cusma-renewed-as-trump-revives-51st-state-threat/)," June 2, 2026.
+
+[^6]: Globe and Mail, "[U.S. plans 10% additional tariffs on Canadian imports after forced-labour probe into 60 countries](https://www.theglobeandmail.com/business/article-us-tariffs-canada-60-countries-forced-labour/)"; Global News, "[Proposed U.S. forced labour tariffs are 'not a surprise,' Carney says](https://globalnews.ca/news/11888573/us-forced-labour-tariffs-canada-mark-carney/)"; CTV News, "[U.S. says it plans extra tariffs of 10% or more for trading partners including Canada after forced labour probe](https://www.ctvnews.ca/world/trumps-tariffs/article/us-says-it-plans-extra-tariffs-of-10-or-more-for-most-trading-partners-after-forced-labour-probe/)."
+
+[^7]: CBC News, "[Alberta considering 3 oil pipeline routes through northern B.C., documents show](https://www.cbc.ca/news/canada/calgary/bakx-alberta-smith-pipeline-oil-documents-bc-9.7216983)"; Global News, "[New documents show potential pipeline routes from Alberta to B.C.'s coast](https://globalnews.ca/news/11877134/new-documents-potential-pipeline-routes-alberta-bc-coast/)"; Globe and Mail, "[LNG Canada contractors set to prepare B.C. terminal site for potential expansion](https://www.theglobeandmail.com/business/article-lng-canada-contractors-set-to-prepare-bc-terminal-site-for-potential/)."
+
+[^8]: GlobeNewswire, "[Bitdeer breaks ground on new energy and digital infrastructure facility in Alberta, Canada](https://www.globenewswire.com/news-release/2026/06/02/3305088/0/en/Bitdeer-breaks-ground-on-new-energy-and-digital-infrastructure-facility-in-Alberta-Canada.html)," June 2, 2026.
