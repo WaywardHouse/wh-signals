@@ -1,0 +1,123 @@
+---
+title: System Signals No. 11
+subtitle: >
+  A hold with two triggers, "not looking to renew,"
+  and a deal by the weekend
+date: 2026-06-12
+issue: 11
+description: >
+  A weekly systems digest on what moved beneath the headlines in the week
+  ending June 12, 2026: the Bank of Canada holds at 2.25% and names its
+  two triggers explicitly — new U.S. trade restrictions would push toward
+  a cut, persistent energy inflation toward consecutive hikes; hours
+  later, Trump says he is "not looking to renew" CUSMA three weeks before
+  the July 1 review opens; the Iran war whipsaws from its sharpest
+  escalation in months — strikes on 18 U.S. targets across the Gulf, the
+  Strait of Hormuz declared closed — to a reported 14-point draft deal
+  that sends Brent below $86.50 by Friday morning; Danielle Smith tells
+  the Global Energy Show she wants Alberta producing eight million
+  barrels per day within a decade; and a CBC investigation finds overseas
+  Facebook accounts impersonating Alberta separatists for engagement
+  revenue ahead of the October 19 referendum.
+categories:
+  - "Economic Geography"
+  - "Energy Policy"
+  - "Trade Policy"
+  - "Monetary Policy"
+image: assets/images/signals.webp
+toc: true
+---
+
+> **Published June 12, 2026.** _System Signals_ is a recurring Wayward House briefing for readers who want the week sorted by system rather than by noise. This issue covers the week ending Friday, June 12, 2026.
+
+---
+
+## This Week's Pattern
+
+On Wednesday morning, Governor Tiff Macklem held the policy rate at 2.25% and told Canadians exactly what would move it: "If the United States imposes significant new trade restrictions on Canada, we may need to cut the policy rate further." On Wednesday afternoon, in the Oval Office, Donald Trump said he is "not looking to renew" CUSMA — "We don't need anything that Canada has, we don't need anything that Mexico has, but they need everything that we have."
+
+The Bank named its condition and the condition went live the same day. That compression — between a carefully hedged central bank scenario and the political event that activates it — is the week's defining feature. The Bank's other named trigger ran the full distance in the opposite direction: the Iran war produced its sharpest escalation in months midweek — strikes on 18 U.S. targets across the Gulf, the Strait of Hormuz declared closed — and then, by Friday morning, a reported draft peace deal that sent Brent below $86.50, its lowest since early March.
+
+Ten issues of this briefing have traced announcements made under pressure. This week the pressure system itself became the story: one of the Bank's two named triggers — trade restriction — moved toward activation, while the other — energy inflation — moved sharply away from it, both inside the same five days.
+
+---
+
+## The Hold and the Two Triggers
+
+The Bank of Canada held its policy rate at 2.25% on June 10, as expected. What was not fully expected was how explicitly the Bank framed its dilemma. "Economic weakness combined with rising inflation is a dilemma for monetary policy," Macklem said, adding that "holding the policy rate unchanged balances those risks."
+
+The inflation picture the Bank described: CPI inflation reached 2.8% in April, core measures have "moved down to around 2%," and the Bank expects headline inflation to "hover close to 3% in coming months before easing gradually toward 2%." Oil prices remain roughly $10 per barrel above the assumption in the Bank's April projection. On the labour market, the Bank looked through the May jobs surge that Issue 10 detailed: "employment in Canada is little changed since the start of the year, and the unemployment rate has been fluctuating in the 6½–7% range."
+
+The forward guidance is the analytically significant part. Macklem said monetary policy "may need to be nimble" and laid out both scenarios by name: significant new U.S. trade restrictions would push toward a cut; energy prices that feed into broad-based, persistent inflation would justify "consecutive increases in the policy rate." A central bank that spent the spring declining to give directional guidance has now published its reaction function. The next announcement is July 15 — two weeks after the CUSMA review opens.[^1]
+
+---
+
+## "Not Looking to Renew"
+
+Three weeks before the July 1 review, and eight days after Canada formally wrote to Washington and Mexico City requesting a 16-year renewal, Trump told reporters in the Oval Office on June 10 that he is "not looking to renew" CUSMA. The framing was maximal: "We don't need anything that Canada has, we don't need anything that Mexico has, but they need everything that we have."[^2]
+
+The mechanics matter more than the rhetoric. CUSMA does not expire on July 1. If the parties do not agree to renew at the review, the agreement enters a rolling annual review process and remains in force until 2036. Canadian and Mexican goods that comply with the agreement continue to be sheltered from the across-the-board tariff — though the sectoral tariffs on steel, aluminum, and automobiles sit outside that shelter and are unaffected either way. The practical meaning of "not renewing" on July 1 is therefore not termination; it is ten years of annual leverage points instead of one sixteen-year settlement.
+
+That reading is consistent with how trade analysts interpreted the comment — as a negotiating posture rather than a decision, from an administration that has raised roughly 30 issues with Canada and wants concessions on automotive trade and dairy access before it signs anything. Trump himself noted CUSMA's "right to terminate" on Wednesday but did not invoke the six-month withdrawal notice that would actually end the agreement. And the day he made the comment, the constituency pressure ran the other way: agriculture industry leaders were on Capitol Hill praising the deal and calling for extension, the National Association of Manufacturers urged renewal, and the association representing GM, Ford, and Stellantis called CUSMA "the most vital trade agreement for America's automakers."
+
+By Thursday the administration's own envoy was softening the line. U.S. Ambassador Pete Hoekstra told a Toronto audience that Trump's remarks about not needing anything from Canada were an invitation to "make us an offer," urging Canada to "go into these negotiations very aggressively" as a partner filling American needs. Trade Minister LeBlanc, for his part, said "I feel better" after Tuesday's meeting with U.S. Trade Representative Jamieson Greer.[^3]
+
+But the posture has a real cost even if it is only a posture. Every Canadian firm deciding whether to invest against CUSMA-guaranteed market access now has to price a decade of annual reviews instead of a renewed agreement. The certainty that renewal was supposed to deliver — the entire Canadian objective since Issue 9 — is precisely what the comment withdrew, and an ambassador's reframing the next day does not restore it.
+
+---
+
+## Escalation Monday, Draft Deal Friday
+
+Issue 10 described a ceasefire premium fading out of the oil price — Brent down 20% from its 2026 peak on optimism that the U.S.-Iran framework would hold. This week compressed the entire conflict cycle into five days. The escalation began with the downing of a U.S. Apache helicopter near the Strait of Hormuz, which set off tit-for-tat attacks across the region. U.S. Central Command conducted strikes on Iranian surveillance, communications, and air defence targets on Tuesday and Wednesday after Trump accused Tehran of delaying the talks. Iran's Revolutionary Guard responded Thursday with what it described as counter-attacks on 18 U.S. military targets — airbases in Kuwait and Bahrain, the Fifth Fleet headquarters in Bahrain, and 12 ballistic missiles fired at the al-Azraq base in Jordan — and Iran's military command declared the Strait of Hormuz closed, threatening any vessel attempting passage. Fitch downgraded its global sovereign sector outlook to "deteriorating," citing the war's expected drag on growth and lift to inflation. Investors described pricing a "long grind" of intermittent strikes rather than resolution.
+
+Then the cycle inverted. By Friday morning, Iranian state media was reporting a 14-point draft agreement that would lift oil sanctions and commit Tehran to reopening the Strait of Hormuz within 30 days, and Trump said a deal could be signed as soon as this weekend in Europe. Brent fell more than 4% to below $86.50 — its lowest level since early March, and roughly 30% below the 2026 peak.[^4]
+
+The whipsaw matters more than either of its endpoints. An oil price that can move from war-premium to peace-discount inside a single news cycle is not a price anyone can plan against — not the Bank of Canada, whose April projection assumed oil roughly $10 above where Brent sat on Wednesday and roughly level with where it sat on Friday; not the producers behind the announced pipeline and LNG projects, whose commercial cases were built at $100-plus; and not Alberta's treasury, whose royalty arithmetic swings by billions across this week's trading range. The deal, if it is signed this weekend, resolves the uncertainty in the direction that eases inflation and weakens the announced-projects economics simultaneously.
+
+---
+
+## Eight Million Barrels
+
+At the Global Energy Show in Calgary on June 9, Danielle Smith gave the announced-projects era its most expansive statement yet: a goal of doubling Alberta's oil production to eight million barrels per day within a decade, built on new pipelines to Asian markets, Indigenous ownership stakes, and what she called an "energy addition" strategy. She put Alberta's recoverable reserves at more than 177 billion barrels — the world's fourth-largest — and valued them at more than $12 trillion at current prices.[^5]
+
+The keynote landed in a week that gave it both support and friction. The support: Canada posted a $2.7 billion trade surplus in April — the second consecutive surplus and the largest since January 2025 — on record exports of $75.2 billion, led by energy products, up 9.7% month-over-month. The export economy that the diversification agenda is supposed to build is, at least at current prices and volumes, already running.[^6]
+
+The friction is arithmetic. Eight million barrels per day is roughly double current production, and the entire announced infrastructure pipeline — the one-million-barrel west coast line with its September 2027 construction target, the three candidate routes through northern BC, the July 1 Major Projects Office submission — adds about one million barrels of export capacity if everything goes to schedule. The gap between the stated ambition and the announced capacity is approximately the size of the announced capacity several times over. Smith's number is best read not as a forecast but as a negotiating position in the same federal-provincial bargain that produced the implementation agreement: the bigger the stated prize, the larger the claim on federal approvals, port capacity, and emissions policy accommodation.
+
+---
+
+## The Referendum's Engagement Economy
+
+A CBC News investigation published June 8 identified at least 14 Facebook accounts operating in major Alberta separatist groups that were run from overseas — including Indonesia, India, Pakistan, and Sri Lanka — impersonating real Albertan separatists. The most documented case was an account presenting as an Albertan woman that belonged to a content creator in Palembang, Indonesia, who posted openly about earnings from Meta's creator monetization program. The accounts copied posts from genuine Alberta residents and re-used photographs of real Canadians without consent, harvesting engagement payouts from one of the most emotionally charged political audiences in the country.[^7]
+
+This is not, on the evidence published, a state influence operation. It is something more banal and arguably harder to govern: a platform's monetization system paying third parties anywhere in the world to amplify whichever domestic grievance generates the most engagement. The content is synthetic; the audience and the grievance are real.
+
+It lands on a live political timeline. Cabinet has formalized the October 19 referendum question, and the Angus Reid Institute's polling on that question found 60% would vote to remain against 35% who would vote to begin the separation process — while roughly half of respondents described the question's wording as confusing.[^8] The information environment in which that confusing question will be contested now demonstrably includes overseas accounts with a direct financial stake in keeping the grievance loud. After the Centurion Project data scandal that Issue 8 documented, this is the second structural finding in a month that the referendum's infrastructure — its petitions, its data handling, its online audience — is entangled with actors outside Alberta and outside the rules that govern Alberta elections.
+
+---
+
+## Why These Belong Together
+
+The Bank of Canada's June 10 statement is the week's organizing document because it named, in advance and in public, the two forces that then spent the rest of the week moving. The trade trigger moved within hours and toward activation: Trump's "not looking to renew" comment converted the CUSMA review from a renewal negotiation into an open-ended leverage structure, and neither an ambassador's "make us an offer" reframing nor the U.S. industry lobby's objections restore the certainty the comment withdrew. The energy trigger moved through its full range and ended pointing the other way: the sharpest escalation in months on Thursday, a draft deal and a sub-$87 oil price by Friday morning. If the weekend signing happens, the Bank's inflation problem eases at exactly the moment its trade problem hardens — which is the cut scenario, not the hike scenario. Smith's eight-million-barrel keynote is what the provincial side of the announced-projects era sounds like when the federal bargain is going its way — an ambition several multiples larger than the infrastructure actually proposed, staked out while the leverage is good, and now exposed to an oil price $20 below where the bargain was struck. And the referendum's engagement economy is a reminder that the political instability premium on all of it — the pipeline, the federal-provincial bargain, the investment case — is now partly manufactured offshore, by accounts paid per click to keep Alberta angry.
+
+The Bank published its reaction function on Wednesday morning. By Friday morning, its two conditions had resolved in opposite directions: the trade restriction closer, the energy inflation further away. Monetary policy may need to be nimble. So will everyone whose business plan was written at $100 oil.
+
+---
+
+## Sources This Week
+
+[^1]: Bank of Canada, "[Monetary Policy Decision Press Conference Opening Statement](https://www.bankofcanada.ca/2026/06/opening-statement-2026-06-10/)," June 10, 2026; Bank of Canada, "[Interest Rate Announcement](https://www.bankofcanada.ca/2026/06/bank-of-canada-interest-rate-announcement-2026-06-10/)," June 10, 2026; Global News, "[As consumers struggle, should the Bank of Canada hike, hold or cut rates?](https://globalnews.ca/news/11894574/bank-of-canada-interest-rate-announcement-june/)"
+
+[^2]: The Canadian Press via Yahoo Finance, "[Trump 'not looking to renew' CUSMA trade pact, says no need for Canadian imports](https://ca.finance.yahoo.com/news/cp-newsalert-trump-not-looking-171305970.html)," June 10, 2026; CBC News, "[Trump threatens not to renew trade deal with Canada, Mexico](https://www.cbc.ca/news/politics/trump-cusma-usmca-trade-renew-9.7230164)," June 10, 2026.
+
+[^3]: CBC News, "[Trump is unlikely to rip up CUSMA, his trade deal with Canada and Mexico. Here's why](https://www.cbc.ca/news/world/trump-tariffs-trade-canada-cusma-usmca-negotiations-9.7228645)"; CBC News, "[U.S. ambassador pitches Trump's CUSMA threats as opportunity to 'make us an offer'](https://www.cbc.ca/news/politics/hoekstra-eurasia-summit-trade-trump-wiseman-9.7231509)," June 11, 2026; CBC News, "[Canada tells U.S., Mexico it wants CUSMA renewed](https://www.cbc.ca/news/world/cusma-usmca-canada-us-mexico-trade-agreement-9.7219102)."
+
+[^4]: Al Jazeera, "[Iran war day 104: Iran attacks US bases, closes strait after Trump strikes](https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes)," June 11, 2026; CNBC, "[Investors brace for a 'long grind' as Iran war escalation dims hopes of an early end to hostilities](https://www.cnbc.com/2026/06/11/iran-war-us-trump-strikes-centcom-oil-investors.html)," June 11, 2026; RFE/RL, "[Iranian State Media Claims Draft US Deal Includes Nuclear Ban](https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284/lbl0lbi459173.html)"; Trading Economics, "[Brent crude oil — price and news](https://tradingeconomics.com/commodity/brent-crude-oil)," June 12, 2026.
+
+[^5]: EnergyNow, "[Alberta Premier Outlines Vision for 8 million Barrels Per Day, New Pipelines, Indigenous Ownership, and an 'Energy Addition' Strategy](https://energynow.ca/2026/06/moving-forward-alberta-premier-outlines-vision-for-8-million-barrels-per-day-new-pipelines-indigenous-ownership-and-an-energy-addition-strategy/)," June 2026; Globe and Mail, "[For Ottawa and Alberta, the hardest part of agreeing on a pipeline plan is just beginning](https://www.theglobeandmail.com/business/article-for-ottawa-and-alberta-the-hardest-part-of-agreeing-on-a-pipeline-plan/)."
+
+[^6]: Trading Economics, "[Canada Balance of Trade](https://tradingeconomics.com/canada/balance-of-trade)," April 2026 release; Statistics Canada, "[Canadian international merchandise trade, April 2026](https://www150.statcan.gc.ca/n1/dai-quo/cal2-eng.htm)."
+
+[^7]: CBC News, "[Facebook is paying people overseas promoting Alberta separatism](https://www.cbc.ca/news/canada/facebook-overseas-alberta-separtism-9.7223966)," June 8, 2026.
+
+[^8]: Angus Reid Institute, "[Alberta Separation: Three-in-five say they'd vote in October to stay, but half say the question is 'confusing'](https://angusreid.org/alberta-referendum-question/)"; CBC News, "[Alberta premier, cabinet formalize wording of Oct. 19 separation question](https://www.cbc.ca/news/canada/edmonton/alberta-referendum-vote-ballot-9.7215485)."
