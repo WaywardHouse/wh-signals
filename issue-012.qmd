@@ -1,0 +1,108 @@
+---
+title: System Signals No. 12
+subtitle: >
+  The war's long tail, a hot mic at the G7,
+  and a pipeline that has to clear at eighty dollars
+date: 2026-06-19
+issue: 12
+description: >
+  A weekly systems digest on what moved beneath the headlines in the week
+  ending June 19, 2026: the U.S.-Iran war reaches an interim settlement —
+  a draft signed at Versailles, the Strait of Hormuz reopening to the
+  first Saudi tankers in three months — even as the talks for a lasting
+  deal are abruptly called off in Switzerland and Brent settles near $80,
+  roughly 35% below its 2026 peak; a hot microphone at the G7 catches
+  Carney pitching Trump on Canada's 49,000-car Chinese EV cap while the
+  two hold no formal bilateral; CUSMA's review clock runs down to two
+  weeks with the U.S. signalling it prefers annual reviews to renewal;
+  and Alberta prepares its July 1 Major Projects Office submission for
+  the newly named Northwest Coast Oil Pipeline into an oil price twenty
+  dollars below where the deal behind it was struck.
+categories:
+  - "Economic Geography"
+  - "Energy Policy"
+  - "Trade Policy"
+  - "Monetary Policy"
+image: assets/images/signals.webp
+toc: true
+---
+
+> **Published June 19, 2026.** _System Signals_ is a recurring Wayward House briefing for readers who want the week sorted by system rather than by noise. This issue covers the week ending Friday, June 19, 2026.
+
+---
+
+## This Week's Pattern
+
+The shock that has organized every issue of this briefing began to lift this week. The Strait of Hormuz, closed by Iranian military order eight days ago, reopened far enough that roughly 10 million barrels of crude transited or staged near it on Thursday — including the first Saudi-owned tankers to move since the war began more than three months ago. Trump signed a draft agreement beside Emmanuel Macron at Versailles. Brent crude, which traded above $100 as recently as mid-May, settled near $80.
+
+And yet nothing is finished. The talks meant to convert the interim agreement into a lasting settlement were abruptly called off in Switzerland on Friday, sending oil back up on the day. CUSMA's review deadline is two weeks out with the United States signalling it wants annual reviews rather than renewal. Alberta is about to file a pipeline proposal whose entire commercial logic was built in a $100 world that is visibly ending.
+
+The pattern this week is resolution arriving unevenly — and the discovery, as the energy emergency recedes, of how much structural business was transacted under its cover. The pipeline, the federal-provincial bargain, the eight-million-barrel ambition: all of it was urgent at $100. None of it has been re-priced at $80.
+
+---
+
+## The War's Long Tail
+
+The arc that began in this briefing's first issue reached an inflection this week, though not a conclusion. Trump announced an interim U.S.-Iran agreement on Sunday, June 14, and signed a draft beside President Macron at Versailles on June 17. The framework requires Iran to dilute its stockpile of highly enriched uranium in exchange for sanctions relief and the lifting of the U.S. naval blockade of Iranian ports; an extended ceasefire holds while the details are negotiated.[^1]
+
+The physical market responded faster than the diplomacy. Tanker traffic through Hormuz, which Iran had declared closed only the week before, recovered to roughly 10 million barrels in transit on Thursday — and the return of Saudi-owned vessels for the first time since the conflict began is the clearest signal yet that the operators who actually move oil believe the worst is behind them. Brent settled near $80 per barrel, roughly 35% below its 2026 peak and the lowest sustained level since before the war.[^2]
+
+But the formal peace stumbled at the threshold. The talks scheduled in Switzerland to finalize a lasting settlement were called off on Friday, and oil rose on the news — a reminder that an interim deal is not a treaty and that the mine-clearing, insurance normalization, and fleet repositioning that a full reopening requires are still months of work, not days. The war premium is draining out of the oil price ahead of the actual resolution of the war. That gap — between a market pricing peace and a settlement not yet signed — is the precise risk that any business plan built on $100 oil now carries.
+
+---
+
+## The Hot Mic at the G7
+
+At the G7 leaders' summit in Évian-les-Bains on June 16–17, Mark Carney and Donald Trump held no formal bilateral meeting — which Carney insisted was not a snub — but a live microphone captured the negotiation that is actually underway. Carney was heard telling Trump that Chinese electric vehicles are "less than three per cent of our market, 49,000 cars," describing it as "a cap," and adding, "I thought you'd actually like that." Trump replied, "That's good, I like it."[^3]
+
+The exchange is a window into where the trade file has moved. Canada imposed a 100% tariff on Chinese EVs in 2024; it has since softened that to a quota of 49,000 vehicles a year at a 6.1% tariff, in return for which China suspended retaliatory tariffs on Canadian agricultural exports. The United States, which maintains its own 100% wall against Chinese EVs, has objected to Canada becoming what Trump has called a "drop off port" for Chinese vehicles bound for the American market. Carney's pitch — framing the cap as protection Trump should welcome — is an attempt to fold a Canada-China arrangement into the Canada-U.S. negotiation without conceding it.[^4]
+
+This is the texture of the CUSMA talks now: not formal sessions and joint statements, but a hot-mic aside between two leaders who could not schedule a meeting. Carney's team, led by Dominic LeBlanc and chief negotiator Janice Charette, met U.S. Trade Representative Jamieson Greer at the summit and reported progress. Carney also used the G7 to announce new sanctions on Russia. The substance is real; the choreography is improvised.
+
+---
+
+## CUSMA: Two Weeks Out
+
+The CUSMA review opens July 1, and the mechanics are now the whole story. By that date the three governments must notify one another whether they want to renew the agreement for a further sixteen-year term or let it pass into the rolling annual-review process that runs to 2036. Canada has formally requested renewal. The United States, on the evidence of the past two weeks, prefers the annual reviews — and LeBlanc has said publicly that he believes Washington wants exactly that, precisely because annual uncertainty is itself a form of leverage.[^5]
+
+This is the structural point Issue 11 identified, now hardening into the likely outcome. Renewal delivers sixteen years of certainty; the annual-review path delivers ten years of certainty about almost nothing, with a fresh negotiation every twelve months over autos, dairy, softwood, and — as the G7 hot mic revealed — the terms on which Canada trades with China. For a Canadian firm weighing an investment against guaranteed U.S. market access, the difference between those two paths is the difference between a plan and a hope.
+
+The countervailing force remains the U.S. domestic constituency. American manufacturers, automakers, and agricultural exporters have all spent the past two weeks publicly urging renewal, because the supply chains CUSMA governs are theirs as much as Canada's. The most probable July 1 outcome is neither clean renewal nor termination but the annual-review limbo — the arrangement that keeps the tariffs off compliant goods while keeping everyone at the table indefinitely. It is the worst structure for planning and, for an administration that values leverage over settlement, very likely the point.
+
+---
+
+## The Pipeline Meets Its Price
+
+Alberta will file its submission to the federal Major Projects Office by July 1 — the same day the CUSMA clock runs out. The project now has a name: the Northwest Coast Oil Pipeline, a 1-million-barrel-per-day line to a deep-water port on British Columbia's northwest coast, pitched as Indigenous co-owned and aimed at Asian markets to reduce Alberta's dependence on U.S. buyers. Ottawa has committed to seeking a national-interest designation under the Building Canada Act by October 1, with construction possible as early as September 2027, contingent throughout on meeting the duty to consult First Nations.[^6]
+
+The submission arrives into a transformed price environment. The implementation agreement was signed in May with Brent above $100, an Asian demand premium, and a Trans Mountain differential that made west-coast tidewater access commercially compelling. At $80 — with Hormuz reopening and the war premium draining away — that math is materially narrower. The carbon-price ladder and CCS conditions that Alberta accepted in exchange for federal cooperation are fixed costs; the revenue side that justified accepting them has fallen twenty dollars a barrel since the ink dried.[^7]
+
+This is where last week's eight-million-barrel keynote meets arithmetic. Danielle Smith staked out a doubling of Alberta production while the leverage was good and the price was high; the leverage came from an energy emergency that is now resolving, and the price has followed it down. None of the announced infrastructure has been re-justified at $80. The Northwest Coast pipeline may still be the right long-term bet — tidewater access and market diversification are structural arguments that survive any single price cycle — but the political economy that produced it was an emergency economy, and the emergency is ending faster than the project can be approved. The hardest part of the Canada-Alberta bargain, as one analysis put it, is just beginning.[^8]
+
+---
+
+## Why These Belong Together
+
+The connective tissue this week is the recession of the shock itself. For twelve issues, an oil price driven by the Strait of Hormuz has been the upstream variable explaining nearly everything downstream — the Bank of Canada's bind, the pipeline's urgency, Alberta's leverage in the federal bargain, the inflation that complicated every rate decision. This week that variable began to revert. Hormuz reopened to Saudi tankers; Brent fell to $80; the war moved toward an interim settlement even as the lasting one slipped. And as the emergency drained out of the energy price, what it had been concealing came into view: a trade negotiation conducted by hot mic because the principals could not schedule a meeting, a CUSMA review sliding toward annual-review limbo, and a billion-barrel pipeline proposal about to be filed at a price twenty dollars below the one that justified it. The structural questions were always there. The emergency made them feel settled when they were only deferred.
+
+The war premium is leaving the oil price ahead of the treaty. Everywhere that premium was load-bearing — the pipeline economics, the provincial leverage, the federal willingness to deal — the structure now has to hold without it.
+
+---
+
+## Sources This Week
+
+[^1]: NPR, "[U.S. and Iran announce an initial deal to end the war and reopen the Strait of Hormuz](https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates)," June 15, 2026; Newsweek, "[What's in Donald Trump's 14-Point US-Iran Peace Deal? Full Text and Breakdown](https://www.newsweek.com/us-iran-14-point-deal-uranium-sanctions-hormuz-draft-12087032)"; Atlantic Council, "[Experts react: The US and Iran just announced an interim peace deal](https://www.atlanticcouncil.org/dispatches/experts-react-the-us-and-iran-just-announced-an-interim-peace-deal-heres-what-we-know-so-far/)."
+
+[^2]: CNBC, "[Brent rises after U.S.-Iran peace talks in Geneva are abruptly postponed](https://www.cnbc.com/2026/06/19/oil-prices-wti-brent-crude-us-iran-deal-strait-hormuz-shipping-recovery.html)," June 19, 2026; Trading Economics, "[Brent crude oil — price and news](https://tradingeconomics.com/commodity/brent-crude-oil)," June 19, 2026.
+
+[^3]: CBC News, "[Hot mic moment at G7 catches Carney, Trump talking about Chinese EVs](https://www.cbc.ca/news/politics/carney-trump-chinese-evs-g7-9.7237002)," June 16, 2026; PBS News, "[Canada's Carney isn't having a bilateral meeting with Trump at G7 but says it's not a snub](https://www.pbs.org/newshour/world/canadas-carney-isnt-having-a-bilateral-meeting-with-trump-at-g7-but-says-its-not-a-snub)."
+
+[^4]: Global News, "[Carney caught on hot mic pitching Chinese EV import deal to Trump at G7](https://globalnews.ca/news/11907854/carney-g7-trump-hot-mic-chinese-evs/)"; The Canadian Press, "[Carney talks China EVs with Trump at G7 summit, announces Russia sanctions](https://www.thecanadianpressnews.ca/national/carney-talks-china-evs-with-trump-at-g7-summit-announces-russia-sanctions/article_4fd30914-5a2f-5ff3-8ed8-7e89a8643e73.html)."
+
+[^5]: CBC News, "[Carney says he had several talks with Trump during G7 despite no official meeting](https://www.cbc.ca/news/politics/carney-g7-trump-talks-but-no-official-meeting-9.7238277)"; CBC News, "[Trump is unlikely to rip up CUSMA, his trade deal with Canada and Mexico. Here's why](https://www.cbc.ca/news/world/trump-tariffs-trade-canada-cusma-usmca-negotiations-9.7228645)."
+
+[^6]: Government of Alberta, "[West Coast Oil Pipeline](https://www.alberta.ca/west-coast-oil-pipeline)"; Prime Minister of Canada, "[Canada-Alberta Memorandum of Understanding](https://www.pm.gc.ca/en/news/backgrounders/2025/11/27/canada-alberta-memorandum-understanding)"; CBC News, "[Alberta's timeline for West Coast pipeline 'best-case scenario': CIBC analysts](https://www.cbc.ca/news/canada/edmonton/alberta-west-coast-pipeline-9.7204537)."
+
+[^7]: Torys LLP, "[A carbon and crude compromise: Canada-Alberta agreement on oil pipeline, pathways and carbon pricing](https://www.torys.com/our-latest-thinking/publications/2026/05/a-carbon-and-crude-compromise)"; Pipeline & Gas Journal, "[Alberta Pushes 1-MMbpd Pacific Oil Pipeline to Expand Asian Exports](https://pgjonline.com/magazine/2026/may-2026-vol-253-no-5/features/alberta-pushes-1-mmbpd-pacific-oil-pipeline-to-expand-asian-exports)."
+
+[^8]: Globe and Mail, "[For Ottawa and Alberta, the hardest part of agreeing on a pipeline plan is just beginning](https://www.theglobeandmail.com/business/article-for-ottawa-and-alberta-the-hardest-part-of-agreeing-on-a-pipeline-plan/)."
